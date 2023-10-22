@@ -1,13 +1,15 @@
+# This automation takes builds from MAIN and pushes them to JN2024-TEST
+# In azure, the static webapp is JN2024-TEST and the generated URL is "ambitious-grass"
 name: Azure Static Web Apps CI/CD
 
 on:
   push:
     branches:
       - main
-  pull_request:
-    types: [opened, synchronize, reopened, closed]
-    branches:
-      - main
+  # pull_request:
+  #   types: [opened, synchronize, reopened, closed]
+  #   branches:
+  #     - main
 
 jobs:
   build_and_deploy_job:
