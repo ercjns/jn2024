@@ -1,3 +1,5 @@
+# This automation takes builds from LIVEPROD branch and pushes them to JN2024 (PRODUCTION)
+# In azure, the static webapp is JN2024 and the generated URL is "kind-tree"
 name: Azure Static Web Apps CI/CD
 
 on:
