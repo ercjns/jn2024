@@ -19,6 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
+          ref: liveprod # Actually get liveprod. Without this it grabs the default branch, which is main.
           submodules: true
           lfs: false
       - name: Build And Deploy
