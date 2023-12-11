@@ -1,0 +1,35 @@
+- image: /assets/img/seal_gorgeclassic.png
+  items:
+    - name: Home
+      link: /
+    - name: Bulletins
+      link: /bulletins/
+    - name: Schedule
+      link: /schedule/
+      items:
+        - name: Social Events
+          link: /social-events/
+    - name: Race Venues and Info
+      link: /venues/
+      items:
+        - name: Model Event
+          link: /venues/model/
+        - name: Friday at Frenchman Coulee
+          link: /venues/friday/
+        - name: Saturday at Quincy Lakes South
+          link: /venues/saturday/
+        - name: Sunday at Bishop's Land
+          link: /venues/sunday/
+    - name: Results
+      link: /results/
+    - name: Travel
+      link: /travel/
+    - name: Registration
+      link: /registration/
+      items:
+        - name: Classes
+          link: /classes/
+        - name: T-Shirts
+          link: /t-shirts/
+        - name: Register Now on EventReg
+          link: https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024
