@@ -1,0 +1,27 @@
+{% assign menus = site.data.[page.menubar] %}
+
+<aside class="menu">
+{% for menu in menus %}
+    
+    {% if menu.label %}
+    <p class="menu-label">{{ menu.label }}</p>
+    {% endif %}
+    {% if menu.image %}
+    <p class="menu-img" style="text-align: center;"><img src="{{ menu.image }}" style="height: auto; width: 300px; max-width: 100%;"></p>
+    {% endif %}
+    <ul class="menu-list">
+        {% for item in menu.items %}
+        <li>
+            <a href="{{ item.link | relative_url }}" class="{% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
+            {% if item.items %}
+            <ul>
+                {% for subitem in item.items %}
+                <li><a href="{{ subitem.link | relative_url }}" class="{% if subitem.link == page.url %}is-active{% endif %}">{{ subitem.name }}</a></li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+{% endfor %}
+</aside>
