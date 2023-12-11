@@ -1,6 +1,6 @@
 ---
 layout: page
-hero_image: assets/img/header.png
+hero_image: assets/img/header.jpg
 hero_darken: true
 hero_height: is-medium
 redirect_from: /home
