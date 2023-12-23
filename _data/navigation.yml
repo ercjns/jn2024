@@ -8,13 +8,13 @@
 - name: Race Venues and Info
   link: /venues/
   dropdown: 
-    - name: Model
+    - name: Model at Frenchman Spring
       link: /venues/model
-    - name: Friday
+    - name: Friday at Frenchman Coulee
       link: /venues/friday
-    - name: Satuday
+    - name: Satuday at Quincy Lakes
       link: /venues/saturday
-    - name: Sunday
+    - name: Sunday at Bishop's Land
       link: /venues/sunday
 - name: Results
   link: /results/
