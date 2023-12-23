@@ -25,7 +25,7 @@ The Bishops Land Recreation Area topography is a direct result of the Glacial La
 #### Address / Coordinates: 
 Ancient Lake Rd, 4.5 miles South of WA 28 (47.1665357,-119.9836198)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2712.5565283676033!2d-119.98619472396804!3d47.166539318262785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDfCsDA5JzU5LjUiTiAxMTnCsDU5JzAxLjAiVw!5e0!3m2!1sen!2sus!4v1703311105946!5m2!1sen!2sus" width="600" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2712.5565283676033!2d-119.98619472396804!3d47.166539318262785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDfCsDA5JzU5LjUiTiAxMTnCsDU5JzAxLjAiVw!5e0!3m2!1sen!2sus!4v1703311105946!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 #### From I-90 Eastbound (From Vantage and Seattle):
 1. Take Exit 149, WA 281 North, Quincy / Wenatchee
