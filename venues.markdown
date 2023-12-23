@@ -8,15 +8,13 @@ hide_hero: true
 
 Welcome to beautiful Central Washington!
 
-{overview map}
+<iframe src="https://www.google.com/maps/d/embed?mid=1frhupq580faMZKx-X8HlomS1tk0SBF0&ehbc=2E312F&noprof=1" width="100%" height="480"></iframe>
 
-{embargo map}
-
-### [Model](model)
+### [Model at Frenchman Spring](model)
 
 ### [Friday at Frenchman Coulee](friday)
 
-### [Satuday at Quincy Lakes South](saturday)
+### [Saturday at Quincy Lakes](saturday)
 
 ### [Sunday at Bishop's Land](sunday)
 
