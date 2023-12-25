@@ -16,20 +16,17 @@ Details about [Classes, Courses, and Eligibility](/classes/).
 
 [See who is registered on EventReg]().
 
-
-
 ## Timelines
-*All cutoffs at 11:59pm Pacific*
 
-Early Registration closes Monday January 29.
-
-Regular Registration closes Monday March 4.
-
-Not all options are available after regular registration closes.
-
-Late Registration Closes Friday March 15
+|              | Register Before         |
+|--------------|-------------------------|
+| Early        | Monday January 29, 11:59pm Pacific |
+| Regular      | Monday March 4, 11:59pm Pacific |
+| Late         | Friday January 15, 11:59pm Pacific |
 
 ## Pricing
+
+### Races
 
 |  Race Fees (Early / Regular / Late)         |  Adult                |  Junior               |
 |---------------------------------------------|-----------------------|-----------------------|
@@ -42,11 +39,12 @@ Late Registration Closes Friday March 15
 * Adult OUSA Member Discount: $4/day
 * Junior OUSA Member Discount: $2/day
 
+### Additional Items
 
 |  Additional Items (Early / Regular / Late)  |  Adult                |  Junior               |
 |---------------------------------------------|-----------------------|-----------------------|
 |  Saturday Chili Lunch (at event center)     |  $9 / $9 / $9         |  $6 / $6 / $6         |
-|  Saturday Junior Social                     |   --                  |  Free, RSVP Required  |
-|  Saturday Dinner                            |  $15 / $15 / --       |  $10 / $10 / --       |
+|  Saturday [Junior Social](/social-events)   |   --                  |  Free, RSVP Required  |
+|  Saturday [Dinner](/social-events)          |  $15 / $15 / --       |  $10 / $10 / --       |
 |  Columbia Gorge Event T-Shirt               |  $? / $? / --         |  $? / $? / --         |
 |  Columbia Gorge Event Jersey                |  $? / $? / --         |  $? / $? / --         |
