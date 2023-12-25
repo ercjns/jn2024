@@ -10,11 +10,11 @@ hide_hero: true
 
 ## Junior Nationals Day 2
 
-See the [schedule](/schedule) for start windows and course closure. Check [EventReg](#) for your start time.
+See the [schedule](/schedule) for start windows and course closure. EVERYONE has an assigned start time. Start times will be published on EventReg in March.
 
 ## Map Information
 
-The Bishops Land Recreation Area topography is a direct result of the Glacial Lake Missoula floods.  Ancient flood waters poured through the Quincy area and scoured trenches and pools adjacent to the existing Columbia River.  These scoured areas have created small buttes and valleys that create a warren of navigable terrain.  The area is covered with sage and low-lying vegetation that can obscure smaller point features.  However, good contact with the map will provide plenty of attack points and catching features.  There are enough roads and trails crossing the east half of the venue to allow for challenges for the younger runners.  Due to the seemingly endless channels, courses can provide equal challenges north and south as well as east and west.  The venue is a course designer’s dream and a competitor’s welcome challenge. 
+The Bishops Land Recreation Area topography is a direct result of the Glacial Lake Missoula floods. Ancient flood waters poured through the Quincy area and scoured trenches and pools adjacent to the existing Columbia River. These scoured areas have created small buttes and valleys that create a warren of navigable terrain. The area is covered with sage and low-lying vegetation that can obscure smaller point features. However, good contact with the map will provide plenty of attack points and catching features. There are enough roads and trails crossing the east half of the venue to allow for challenges for the younger runners. Due to the seemingly endless channels, courses can provide equal challenges north and south as well as east and west. The venue is a course designer’s dream and a competitor’s welcome challenge. 
 
 ## Course Notes
 
@@ -30,19 +30,30 @@ Ancient Lake Rd, 4.5 miles South of WA 28 (47.1665357,-119.9836198)
 #### From I-90 Eastbound (From Vantage and Seattle):
 1. Take Exit 149, WA 281 North, Quincy / Wenatchee
 1. Turn left (North) on WA 281. Continue 5.6 miles.
-1. Turn left (West) on Rd 5 NW (also signed White Trail Rd).
-1. {more here}
+1. Turn left (West) on Rd 5 NW (also signed White Trail Rd). Continue 7.8 miles.
+1. Turn left (West) on Rd 9 NW. Continue 2 miles.
+1. Rd 9 NW becomes Ancient Lake Road and turns South. Continue about 3.4 miles.
+1. Watch for orienteering parking signs 
 
 #### From I-90 Westbound (From Moses Lake and Spokane):
 1. Take Exit 151, WA 281 North, Quincy / Wenatchee
 1. Turn right (North) on WA 281. Continue 1.6 miles.
 1. Turn right (North) on WA 281. Continue 2.9 miles.
-1. Turn left (West) on Rd 5 NW (also signed White Trail Rd).
-1. {more here}
+1. Turn left (West) on Rd 5 NW (also signed White Trail Rd). Continue 7.8 miles.
+1. Turn left (West) on Rd 9 NW. Continue 2 miles.
+1. Rd 9 NW becomes Ancient Lake Road and turns South. Continue about 3.4 miles.
+1. Watch for orienteering parking signs 
 
 #### From WA 28 Eastbound (From Wenatchee):
-1. 
+1. Turn right (South/West) on Rd 10 NW. Continue 0.4 miles.
+1. Turn left (South) on Rd V NW. Continue 1 mile.
+1. Turn right (West) on Rd 9 NW. Continue 1 mile.
+1. Rd 9 NW becomes Ancient Lake Road and turns South. Continue about 3.4 miles.
+1. Watch for orienteering parking signs 
 
 #### From WA 28 Westbound (From Quincy):
-1. 
+1. Turn left (South) on Rd U NW / White Trail Rd. Continue 1 mile.
+1. Turn right (West) on Rd 9 NW. Continue 2 miles.
+1. Rd 9 NW becomes Ancient Lake Road and turns South. Continue about 3.4 miles.
+1. Watch for orienteering parking signs 
 

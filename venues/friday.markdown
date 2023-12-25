@@ -8,11 +8,11 @@ hide_hero: true
 
 ![Frenchman Coulee](/assets/img/FrenchmanCoulee300.jpg)
 
-See the [schedule](/schedule) for start windows and course closure. Check [EventReg](#) for your start time.
+See the [schedule](/schedule) for start windows and course closure. EVERYONE has an assigned start time. Start times will be published on EventReg in March.
 
 ## Map Information
 
-Frenchman Coulee terrain is composed mostly of a relatively flat sagebrush covered plain bordered by rolling hills to the south.  Bisecting the plain are Pleistocene aged flood channels carved into underlying basalt formations.  Running the length of the channel are shale slopes and cliffs.  The presence of these long linear features interspersed with shale slopes makes for challenging route finding while crossing the plain.  Located within the limits of these channels are ponds, marshes and small waterways.  The wet areas of Frenchman are often lined with dense vegetation creating a challenging traverse.  Within the limits of the map are other navigable linear features in the form of old fence lines, creek beds, distinct reentrants and spurs.  Point features consist of old equipment, knolls, hilltops and depressions.  The flatter terrain to the east has trails and old roads for the younger runners to navigate as well as significant linear features to follow.  While there are significant cliffs to the west, younger runners will be routed far back from these features.  Courses at this venue are surprisingly technical and always fast. 
+Frenchman Coulee terrain is composed mostly of a relatively flat sagebrush covered plain bordered by rolling hills to the south. Bisecting the plain are Pleistocene aged flood channels carved into underlying basalt formations. Running the length of the channel are shale slopes and cliffs. The presence of these long linear features interspersed with shale slopes makes for challenging route finding while crossing the plain. Located within the limits of these channels are ponds, marshes and small waterways. The wet areas of Frenchman are often lined with dense vegetation creating a challenging traverse. Within the limits of the map are other navigable linear features in the form of old fence lines, creek beds, distinct reentrants and spurs. Point features consist of old equipment, knolls, hilltops and depressions. The flatter terrain to the east has trails and old roads for the younger runners to navigate as well as significant linear features to follow. While there are significant cliffs to the west, younger runners will be routed far back from these features. Courses at this venue are surprisingly technical and always fast. 
 
 ## Course Notes
 
