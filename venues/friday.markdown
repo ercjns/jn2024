@@ -2,6 +2,10 @@
 layout: page
 menubar: leftnav
 hide_hero: true
+breadcrumb: true
+breadcrumbs:
+- text: Venues
+  link: /venues/
 ---
 
 # Friday at Frenchman Coulee

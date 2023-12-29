@@ -2,6 +2,7 @@
 layout: page
 menubar: leftnav
 hide_hero: true
+breadcrumb: true
 ---
 
 # Race Venues and Info
