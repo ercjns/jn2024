@@ -24,8 +24,6 @@ The Bishops Land Recreation Area topography is a direct result of the Glacial La
 
 ## Getting There
 
-{discover pass needed here? No?}
-
 #### Address / Coordinates: 
 Ancient Lake Rd, 4.5 miles South of WA 28 (47.1665357,-119.9836198)
 
