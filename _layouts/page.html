@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% if page.toc %}
+    {% assign contentsTitle = page.toc_title | default: 'Contents' %}
+    {% include toc.html html=content class='menu-list' h_min=2 h_max=3 contents_title=contentsTitle %}
+{% endif %}
+{% if page.breadcrumb %}
+<div>
+    <a href="/">Home</a> 
+    {% if page.breadcrumbs %}
+    {% for item in page.breadcrumbs %}
+    / <a href="{{item.link}}">{{ item.text }}</a>
+    {% endfor %}
+    {% endif %}
+    /
+</div>
+{% endif %}
+<div class="content">
+    {{ content }}
+</div>
