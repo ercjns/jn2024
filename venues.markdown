@@ -29,4 +29,4 @@ Visit the event pages for specific driving directions
 **Quincy Valley Medical Center**: 908 10th Ave SW, Quincy, WA 98848
 
 #### Events
-Quincy Business Center: 115 F St SW, Quincy, WA 98848
+**Quincy Business Center**: 115 F St SW, Quincy, WA 98848
