@@ -32,11 +32,28 @@ The table below follows the standard OUSA Course / Class mapping. Courses may be
 | Red |  | ICVM | F-21+ | M-20, M35+, M40+, M45+ | M-Red | Advanced |
 | Blue |  |  |  | M-21+ |  | Long Advanced |
 
+#### Junior Nationals Championship Classes
+
+|  Class  |     Description  |     Course  |     School Grade-level  |
+|---|---|---|---|
+|  ICVM  | College Varsity Male | Red | College |
+|  ICVF  | College Varsity Female | Green | College |
+|  ICJVM  | College Junior Varsity Male | Orange | College |
+|  ICJVF  | College Junior Varsity Female | Orange | College |
+|  ISVM  |     Varsity Male  |     Green  |     Any grade through **twelve**  |
+|  ISVF  |     Varsity Female  |     Brown  |     Any grade through **twelve**  |
+|  ISJVM  |     Junior Varsity Male  |     Orange  |     Any grade through **twelve**  |
+|  ISJVF  |     Junior Varsity Female  |     Orange  |     Any grade through **twelve**  |
+|  ISIM  |     Intermediate Male  |     Yellow  |     Any grade through **nine**  |
+|  ISIF  |     Intermediate Female  |     Yellow  |     Any grade through **nine**  |
+|  ISPM  |     Primary Male  |     White  |     Any grade through **six**  |
+|  ISPF  |     Primary Female  |     White  |     Any grade through **six**  |
 
 
 ## Junior National Championship Eligibility
 
 *Text on this website is provided as guidance. The [OUSA Rules](https://orienteeringusa.org/about/rules/) are the governing document of competition unless explicitly stated that competition rules deviate from the OUSA rules.*
+
 
 ### Individuals 
 To compete for OUSA Jr National Championship individual awards, competitors must compete in one of the OUSA Individual Championship Classes and meet all the following OUSA eligibility requirements: 
