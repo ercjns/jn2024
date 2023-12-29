@@ -13,13 +13,13 @@ Welcome to beautiful Central Washington!
 ### Race Venues
 Visit the event pages for specific driving directions
 
-[Model at Frenchman Spring](model) - Vantage Rd SW, 3.5 miles West of I-90. (47.023678,-119.996137)
+[Model at Frenchman Spring](/venues/model) - Vantage Rd SW, 3.5 miles West of I-90. (47.023678,-119.996137)
 
-[Friday at Frenchman Coulee](friday) - Vantage Rd SW, 2.2 miles West of I-90. (47.02569, -119.96677)
+[Friday at Frenchman Coulee](/venues/friday) - Vantage Rd SW, 2.2 miles West of I-90. (47.02569, -119.96677)
 
-[Saturday at Quincy Lakes](saturday) - Road T NW, 3 miles south of Rd 5 NW (47.127111, -119.932861)
+[Saturday at Quincy Lakes](/venues/saturday) - Road T NW, 3 miles south of Rd 5 NW (47.127111, -119.932861)
 
-[Sunday at Bishop's Land](sunday) - Ancient Lake Rd, 4.5 miles South of WA 28 (47.1665357,-119.9836198)
+[Sunday at Bishop's Land](/venues/sunday) - Ancient Lake Rd, 4.5 miles South of WA 28 (47.1665357,-119.9836198)
 
 ### Other Addresses
 
