@@ -21,8 +21,9 @@ Details about [Classes, Courses, and Eligibility](/classes/).
 |              | Register Before         |
 |--------------|-------------------------|
 | Early        | Monday January 29, 11:59pm Pacific |
+| Shirts/Jerseys | Wednesday February 21, 11:59pm Pacific |
 | Regular      | Monday March 4, 11:59pm Pacific |
-| Late         | Friday January 15, 11:59pm Pacific |
+| Late         | Friday March 15, 11:59pm Pacific |
 
 ## Pricing
 
@@ -46,5 +47,6 @@ Details about [Classes, Courses, and Eligibility](/classes/).
 |  Saturday Chili Lunch (at event center)     |  $9 / $9 / $9         |  $6 / $6 / $6         |
 |  Saturday [Junior Social](/social-events)   |   --                  |  Free, RSVP Required  |
 |  Saturday [Dinner](/social-events)          |  $15 / $15 / --       |  $10 / $10 / --       |
-|  Columbia Gorge Event T-Shirt               |  $? / $? / --         |  $? / $? / --         |
-|  Columbia Gorge Event Jersey                |  $? / $? / --         |  $? / $? / --         |
+|  Columbia Gorge Event [T-Shirt](/shirts)    |  $? / $? / --         |  $? / $? / --         |
+|  Columbia Gorge Event Basic Jersey          |  $45 / $45 / --         |  $45 / $45 / --         |
+|  Columbia Gorge Event 1/4 zip Jersey          |  $50 / $50 / --         |  $50 / $50 / --         |
