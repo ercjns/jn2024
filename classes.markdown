@@ -27,8 +27,8 @@ The table below follows the standard OUSA Course / Class mapping. Courses may be
 | White | ISPF, ISPM |  | F-10, F-12 | M-10, M-12 | MF-White | Rec White (Beginner) |
 | Yellow | ISIF, ISIM |  | F-14 | M-14 | F-Yellow, M-Yellow | Rec Yellow (Advanced Beginner) |
 | Orange | ISJVF, ISJVM | ICJVF, ICJVM | F-16 | M-16 | F-Orange, M-Orange | Rec Orange (Intermediate) |
-| Brown | ISVF |  | F-18, F55+, F60+, F65+, F70+, F75+, F80+, F85+, F90+ | M65+, M70+, M75+, M80+, M85+, M90+ | F-Brown, M-Brown | Rec Brown (Advanced Intermediate) |
-| Green | ISVM | ICVF | F-20, F35+, F40+, F45+, F50+ | M-18, M50+, M55+, M60+ | F-Green, M-Green | Rec Green (Short Advanced) |
+| Brown | ISVF |  | F-18, F55+, F60+, F65+, F70+, F75+, F80+, F85+, F90+ | M65+, M70+, M75+, M80+, M85+, M90+ | F-Brown, M-Brown | Rec Brown (Short Advanced) |
+| Green | ISVM | ICVF | F-20, F35+, F40+, F45+, F50+ | M-18, M50+, M55+, M60+ | F-Green, M-Green | Rec Green (Medium Advanced) |
 | Red |  | ICVM | F-21+ | M-20, M35+, M40+, M45+ | M-Red | Rec Red (Advanced) |
 | Blue |  |  |  | M-21+ |  | Rec Blue (Long Advanced) |
 

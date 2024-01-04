@@ -8,7 +8,9 @@ hide_hero: true
 
 The Columbia Gorge Classic 2024 is a three-day event. Competitive and non-competitive (recreational) classes are available on all days. 
 
-**There is no on-site registration, including for recreational courses.** Everyone must register on [EventReg](https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024).
+ <div class="notification is-info is-light">
+There is <strong>no on-site registration</strong>, <i>including for recreational courses</i>. Everyone must pre-register on <a href="https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024" target="_blank">EventReg</a>.
+</div>
 
 Friday is a stand-alone National Ranking Event (NRE).
 
@@ -38,17 +40,21 @@ Check the [Classes, Courses, and Eligibility](/classes/) page for more details. 
 |  Single NRE, Each                  |  $50 / $60 / $80      |  $30 / $35 / $40      |
 |  Single Recreational Course, Each  |  $15 / $15 / $20      |  $15 / $15 / $20      |
 
-* E-Punch Rental: $5 {Per day or only charged once per person?}
-* Adult OUSA Member Discount: $4/day
-* Junior OUSA Member Discount: $2/day
+* E-Punch Rental: $5 per race
+* Adult OUSA Member Discount: $4 per race
+* Junior OUSA Member Discount: $2 per race
 
 ### Additional Items
+
+![Image](/assets/img/ZipJerseyWithElements.png)
 
 |  Additional Items (Early / Regular / Late)  |  Adult                |  Junior               |
 |---------------------------------------------|-----------------------|-----------------------|
 |  Saturday Chili Lunch (at event center)     |  $9 / $9 / $9         |  $6 / $6 / $6         |
-|  Saturday [Junior Social](/social-events#Jr.-Social)   |   --                  |  Free, RSVP Required  |
-|  Saturday [Dinner](/social-events#Dinner)          |  $15 / $15 / no       |  $10 / $10 / no       |
+|  Saturday [Junior Social](/social-events#jr-social)   |   --                  |  Free, RSVP Required  |
+|  Saturday [Dinner](/social-events#dinner)          |  $15 / $15 / no       |  $10 / $10 / no       |
+|  Columbia Gorge Event [1/4 Zip Jersey](/shirts#14-zip-jersey--50) **by Feb 21 only**        |  $50 / $50 / no         |  $50 / $50 / no         |
+|  Columbia Gorge Event [Basic Jersey](/shirts#basic-jersey--45) **by Feb 21 only**          |  $45 / $45 / no         |  $45 / $45 / no         |
 |  Columbia Gorge Event [T-Shirt](/shirts) **by Feb 21 only**    |  $? / $? / no         |  $? / $? / no         |
-|  Columbia Gorge Event Basic Jersey **by Feb 21 only**          |  $45 / $45 / no         |  $45 / $45 / no         |
-|  Columbia Gorge Event 1/4 zip Jersey **by Feb 21 only**        |  $50 / $50 / no         |  $50 / $50 / no         |
+
+

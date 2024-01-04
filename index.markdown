@@ -12,8 +12,14 @@ subtitle: 2024 OUSA Junior National Championships <br> Quincy, Washington | Marc
 
 # Welcome
 
-{TODO: Opening paragraph content}
+{content}
 
-{This is placeholder content so that there are a few sentences of text. Just to push things down on the page. Becuase that's what I expect to actually be here. This is placeholder content so that there are a few sentences of text. Just to push things down on the page. Becuase that's what I expect to actually be here. This is placeholder content so that there are a few sentences of text. Just to push things down on the page. Becuase that's what I expect to actually be here. This is placeholder content so that there are a few sentences of text. Just to push things down on the page. Becuase that's what I expect to actually be here. This is placeholder content so that there are a few sentences of text. Just to push things down on the page. Becuase that's what I expect to actually be here.}
-
+Original
 {% include youtube.html video="O_7u3pgmPLg" time=10 %}
+
+With Extra Query Param
+{% include youtube.html video="O_7u3pgmPLg?si=v-Xsx0c0eKiJvMeR&amp;" time=10 %}
+
+Direct from YT
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O_7u3pgmPLg?si=v-Xsx0c0eKiJvMeR&amp;start=10" title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
