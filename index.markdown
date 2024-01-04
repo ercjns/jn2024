@@ -7,7 +7,7 @@ redirect_from: /home
 menubar: leftnav
 
 title: Columbia Gorge Classic
-subtitle: 2024 OUSA Junior National Championships
+subtitle: 2024 OUSA Junior National Championships <br> Quincy, Washington | March 22-24, 2024
 ---
 
 # Welcome
