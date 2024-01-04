@@ -20,7 +20,9 @@ Start to the NORTH only. Do not enter competition area South of the road!
 
 ## Getting There
 
-A **Discover Pass** (Washington State Parks Pass) is required for parking. ***There is no way to purchase a pass on site***! You can buy one ahead of time [online](https://store.discoverpass.wa.gov/) or [in person](https://www.discoverpass.wa.gov/133/Where-to-Buy) at some stores and parks.
+<div class="notification is-warning">
+A <strong>Discover Pass</strong> (Washington State Parks Pass) is required for parking. <strong><i>There is no way to purchase a pass on site</i></strong>! You can buy one ahead of time <a href="https://store.discoverpass.wa.gov/" target="_blank">online</a> or <a href="https://www.discoverpass.wa.gov/133/Where-to-Buy" target="_blank">in person</a> at some stores and parks.
+</div>
 
 #### Address / Coordinates: 
 Vantage Rd SW, 3.5 miles West of I-90. (47.023678,-119.996137)

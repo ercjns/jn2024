@@ -26,7 +26,9 @@ Coming soon.
 
 ## Getting There
 
-A **Discover Pass** (Washington State Parks Pass) is required for parking. ***There is no way to purchase a pass on site***! You can buy one ahead of time [online](https://store.discoverpass.wa.gov/) or [in person](https://www.discoverpass.wa.gov/133/Where-to-Buy) at some stores and parks.
+<div class="notification is-warning">
+A <strong>Discover Pass</strong> (Washington State Parks Pass) is required for parking. <strong><i>There is no way to purchase a pass on site</i></strong>! You can buy one ahead of time <a href="https://store.discoverpass.wa.gov/" target="_blank">online</a> or <a href="https://www.discoverpass.wa.gov/133/Where-to-Buy" target="_blank">in person</a> at some stores and parks.
+</div>
 
 #### Address / Coordinates: 
 Road T NW, 3 miles south of Rd 5 NW  (47.127111, -119.932861)
