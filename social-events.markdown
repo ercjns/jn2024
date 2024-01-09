@@ -19,16 +19,17 @@ Cascade Orienteering Club invites all juniors to join hosts Jessica Colleran and
 * Play a fun game and maybe win some prizes.
 * Enjoy some free pre-dinner treats.
 
-This event is free, but registration is required!
+This event is for registered participants on interscholastic or intercollegiate classes only and is free, but an RSVP in EventReg is required by March 5!
 
-*Caroline is a former OUSA team member who has represented Team USA at multiple JWOC competitions and is currently a certified level 2 orienteering coach who has coached Team USA at JWOC. Jessica is a current member of the OUSA Team and has represented Team USA at both JWOC and WUOC.*
+*Caroline is a former OUSA team member who has represented Team USA at multiple JWOC competitions and is currently a certified level 2 orienteering coach who has coached Team USA at JWOC.*
 
+*Jessica is a current member of the OUSA Team and has represented Team USA at both JWOC and WUOC.*
 
 ## Dinner
 
 Saturday 6:00pm - 8:00pm at the Quincy Business Center
 
-Come join your fellow orienteers for an evening of fellowship and good food. Trade stories of glory earned and opportunities missed from the earlier Frenchman Coulee NRE. Or, catch up with good friends from out of state clubs. Awards for Friday's NRE will be presented at the end of the meal. Dinner will be tamales, rice, and beans from the local Delicioso Tamale restaurant along with a drink and cookie provided by COC.
+Come join your fellow orienteers for an evening of fellowship and good food. Trade stories of glory earned and opportunities missed from the earlier Frenchman Coulee NRE. Or, catch up with good friends from out of state clubs. Awards for Friday's NRE will be presented at the end of the meal. Dinner will be tamales, rice, and refried beans from the local Delicioso Tamale restaurant along with a drink, chips, salsa, and cookies provided by COC. Adult meals will come with three tamales and the junior meals will be served with two tamales.
 
 ## Awards 
 

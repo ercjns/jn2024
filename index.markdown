@@ -30,7 +30,7 @@ Want to connect with a welcoming contact upon arrival to the venues?
 **Contact our ambassadors at JN2024Ambassadors@CascadeOC.org**
 
 Looking for registration help, have start time requests or questions?
-**Ask our Registrar at kathy@forgrave.net**
+**Ask our registrar at JN2024Registrar@CascadeOC.org**
 
 Need specific or technical assistance? **Event Directors can be reached at JN2024@CascadeOC.org**
 
