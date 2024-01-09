@@ -12,11 +12,16 @@ subtitle: 2024 OUSA Junior National Championships <br> Quincy, Washington | Marc
 
 # Welcome
 
-All, welcome to the 2024 Junior Nationals! Our story begins thousands of years ago, when a body of freshwater called Glacial Lake Missoula covered a large area of western Montana at the end of the last ice age. As the ice melted, a series of massive floods - at least 25! - raged across what is now Eastern Washington, carrying away trees, vegetation, and even the very soil, leaving what today we call the channeled scablands. 
+Local or from far away, novice or expert- this event is for you! 
+
+Cascade Orienteering welcomes everyone to The Columbia Gorge Classic featuring the 2024 OUSA Junior Nationals! We invite you to come experience three days of NRE level orienteering with courses tailored for all skill levels. We invite you to watch interscholastic and intercollegiate students compete for the US student championships. We invite you to social events to meet your fellow orienteers from around the country. And we invite you to experience amazing venues that highlight some of the greatest orienteering terrain Washington state has to offer. 
+
+Our story begins thousands of years ago, when a body of freshwater called Glacial Lake Missoula covered a large area of western Montana at the end of the last ice age. As the ice melted, a series of massive floods - at least 25! - raged across what is now Eastern Washington, carrying away trees, vegetation, and even the very soil, leaving what today we call the channeled scablands. 
 
 This unique desert environment lies within the rain shadow of the Cascade Mountains to the west, and thus receives only some 8-12 inches of rain per year. As such, it features little to no traditional forest, but rather majestic cliffs, sweeping views of the Columbia River Gorge, and all manner of intricate rock formations large and small. Translated to orienteering terms, the area is characterized by excellent visibility and runnability, with little vegetation beyond various desert shrubs - but tons of complicated rock detail which we believe will provide a delightfully fresh challenge to all who take it on.
 
-Once again, welcome to the Pacific Northwest, and we hope you enjoy your time in this special terrain!
+We are excited to welcome you all to the Pacific Northwest and promise you will enjoy your time in this special terrain!
+
 
 ### Contact Information
 
