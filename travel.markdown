@@ -13,7 +13,7 @@ Check the [venues](/venues) page for a master map.
 
 ### Airports
 
-#### Seattle-Tacoma (SEA)
+#### Seattle-Tacoma International (SEA)
 
 Seattle-Tacoma is a Delta and Alaska Airlines hub, with service from all major carriers. Drive 164 miles (about 3 hours) east across the Cascade Mountains to the event. Snoqualmie pass on I-90 is extremely unlikely to close in late March, but there may be snow. Sunday afternoon traffic back into Seattle can be unpredictable.
 
