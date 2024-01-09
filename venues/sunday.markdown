@@ -22,6 +22,12 @@ The Bishops Land Recreation Area topography is a direct result of the Glacial La
 
 ## Course Notes
 
+Coming soon
+
+## Site Map
+
+Coming soon
+
 ## Getting There
 
 #### Address / Coordinates: 

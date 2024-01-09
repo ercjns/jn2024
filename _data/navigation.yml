@@ -23,7 +23,7 @@
 - name: Registration
   link: /registration/
   dropdown:
-    - name: Classes
+    - name: Courses, Classes, Eligibility
       link: /classes/
     - name: Shirts and Jerseys
       link: /shirts/

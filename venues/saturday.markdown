@@ -22,7 +22,11 @@ Quincy Lakes is a cross between a series of interconnected water features and a 
 
 ## Course Notes
 
-Coming soon.
+Coming soon
+
+## Site Map
+
+Coming soon
 
 ## Getting There
 
