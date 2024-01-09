@@ -40,7 +40,7 @@ Check the [Classes, Courses, and Eligibility](/classes/) page for more details. 
 |  Columbia Gorge Three Race Package (Fri, Sat, Sun)     |  $125 / $150 / $200   |  $65 / $80 / $100     |
 |  Two Race Jr. Nationals Package (Sat, Sun)           |  $100 / $120 / $160   |  $60 / $70 / $80      |
 |  Single NRE, Each                  |  $50 / $60 / $80      |  $30 / $35 / $40      |
-|  Single Recreational Course, Each  |  $15 / $15 / $20      |  $15 / $15 / $20      |
+|  Single Recreational Course, Each  |  $20      |  $20      |
 
 * E-Punch Rental: $5 per race
 * SIAC Air+ E-punch Rental: $7 per race
@@ -54,7 +54,7 @@ Check the [Classes, Courses, and Eligibility](/classes/) page for more details. 
 |  Additional Items (Early / Regular / Late)  |  Adult                |  Junior               |
 |---------------------------------------------|-----------------------|-----------------------|
 |  Saturday [Junior Social](/social-events#jr-social)   |   --                  |  Free, RSVP Required  |
-|  Saturday [Dinner](/social-events#dinner)          |  $15 / $15 / no       |  $12.50 / $12.50 / no       |
+|  Saturday [Dinner](/social-events#dinner)          |  $16 / $16 / no       |  $12.50 / $12.50 / no       |
 |  Columbia Gorge Event [1/4 Zip Jersey](/shirts#14-zip-jersey--50) **by Feb 21 only**        |  $50 / $50 / no         |  $50 / $50 / no         |
 |  Columbia Gorge Event [Basic Jersey](/shirts#basic-jersey--45) **by Feb 21 only**          |  $45 / $45 / no         |  $45 / $45 / no         |
 |  Columbia Gorge Event [T-Shirt](/shirts) **by Feb 21 only**    |  $20 / $20 / no         |  $20 / $20 / no         |
