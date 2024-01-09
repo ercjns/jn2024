@@ -50,11 +50,10 @@ Check the [Classes, Courses, and Eligibility](/classes/) page for more details. 
 
 |  Additional Items (Early / Regular / Late)  |  Adult                |  Junior               |
 |---------------------------------------------|-----------------------|-----------------------|
-|  Saturday Chili Lunch (at event center)     |  $9 / $9 / $9         |  $6 / $6 / $6         |
 |  Saturday [Junior Social](/social-events#jr-social)   |   --                  |  Free, RSVP Required  |
-|  Saturday [Dinner](/social-events#dinner)          |  $15 / $15 / no       |  $10 / $10 / no       |
+|  Saturday [Dinner](/social-events#dinner)          |  $15 / $15 / no       |  $12.50 / $12.50 / no       |
 |  Columbia Gorge Event [1/4 Zip Jersey](/shirts#14-zip-jersey--50) **by Feb 21 only**        |  $50 / $50 / no         |  $50 / $50 / no         |
 |  Columbia Gorge Event [Basic Jersey](/shirts#basic-jersey--45) **by Feb 21 only**          |  $45 / $45 / no         |  $45 / $45 / no         |
-|  Columbia Gorge Event [T-Shirt](/shirts) **by Feb 21 only**    |  $? / $? / no         |  $? / $? / no         |
+|  Columbia Gorge Event [T-Shirt](/shirts) **by Feb 21 only**    |  $20 / $20 / no         |  $20 / $20 / no         |
 
 

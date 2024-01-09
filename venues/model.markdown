@@ -12,6 +12,8 @@ breadcrumbs:
 
 ![Frenchman Spring](/assets/img/FrenchmanSpring300.jpg)
 
+The model course will be open 10:00am-4:00pm on Friday and 7:00am-3:00pm on Saturday. See the full [schedule](/schedule).
+
 ## Map Information
 
 ## Course Notes
