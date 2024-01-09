@@ -43,6 +43,7 @@ Check the [Classes, Courses, and Eligibility](/classes/) page for more details. 
 |  Single Recreational Course, Each  |  $15 / $15 / $20      |  $15 / $15 / $20      |
 
 * E-Punch Rental: $5 per race
+* SIAC Air+ E-punch Rental: $7 per race
 * Adult OUSA Member Discount: $4 per race
 * Junior OUSA Member Discount: $2 per race
 
