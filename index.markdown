@@ -18,4 +18,19 @@ This unique desert environment lies within the rain shadow of the Cascade Mounta
 
 Once again, welcome to the Pacific Northwest, and we hope you enjoy your time in this special terrain!
 
+### Contact Information
+
+Looking for answers to general JN2024 questions or questions on coming to Washington?
+Want to connect with a welcoming contact upon arrival to the venues?
+**Contact our ambassadors at JN2024Ambassadors@CascadeOC.org**
+
+Looking for registration help, have start time requests or questions?
+**Ask our Registrar at kathy@forgrave.net**
+
+Need specific or technical assistance? **Event Directors can be reached at JN2024@CascadeOC.org**
+
 {% include youtube.html video="O_7u3pgmPLg" time=10 %}
+
+
+
+
