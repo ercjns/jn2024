@@ -12,14 +12,10 @@ subtitle: 2024 OUSA Junior National Championships <br> Quincy, Washington | Marc
 
 # Welcome
 
-{content}
+All, welcome to the 2024 Junior Nationals! Our story begins thousands of years ago, when a body of freshwater called Glacial Lake Missoula covered a large area of western Montana at the end of the last ice age. As the ice melted, a series of massive floods - at least 25! - raged across what is now Eastern Washington, carrying away trees, vegetation, and even the very soil, leaving what today we call the channeled scablands. 
 
-Original
+This unique desert environment lies within the rain shadow of the Cascade Mountains to the west, and thus receives only some 8-12 inches of rain per year. As such, it features little to no traditional forest, but rather majestic cliffs, sweeping views of the Columbia River Gorge, and all manner of intricate rock formations large and small. Translated to orienteering terms, the area is characterized by excellent visibility and runnability, with little vegetation beyond various desert shrubs - but tons of complicated rock detail which we believe will provide a delightfully fresh challenge to all who take it on.
+
+Once again, welcome to the Pacific Northwest, and we hope you enjoy your time in this special terrain!
+
 {% include youtube.html video="O_7u3pgmPLg" time=10 %}
-
-With Extra Query Param
-{% include youtube.html video="O_7u3pgmPLg?si=v-Xsx0c0eKiJvMeR&amp;" time=10 %}
-
-Direct from YT
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O_7u3pgmPLg?si=v-Xsx0c0eKiJvMeR&amp;start=10" title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
