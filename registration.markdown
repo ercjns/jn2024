@@ -9,7 +9,9 @@ hide_hero: true
 The Columbia Gorge Classic 2024 is a three-day event. Competitive and non-competitive (recreational) classes are available on all days. 
 
  <div class="notification is-info is-light">
-There is <strong>no on-site registration</strong>, <i>including for recreational courses</i>. Everyone must pre-register on <a href="https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024" target="_blank">EventReg</a>.
+There is <strong>no on-site registration</strong>, <i>including for recreational courses</i>. Everyone must pre-register on 
+<!-- <a href="https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024" target="_blank">EventReg</a>. -->
+EventReg.
 </div>
 
 Friday is a stand-alone National Ranking Event (NRE).
@@ -18,7 +20,7 @@ Saturday and Sunday are also NREs, as well as the 2024 Oritneering USA Junior Na
 
 Check the [Classes, Courses, and Eligibility](/classes/) page for more details. Generally, EventReg will point you towards the right class for you.
 
-[See who is registered on EventReg]().
+<!-- [See who is registered on EventReg](). -->
 
 ## Timelines
 
