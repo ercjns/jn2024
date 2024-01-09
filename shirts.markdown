@@ -34,10 +34,7 @@ Cascade OC Members find that for the Basic Jersey Men's sizes run true to size, 
 Champion System’s sizing guides can be found [here](https://cdn.shopify.com/s/files/1/2381/0229/files/Complete_Size_Guide-AU_2018-b_56bd7294-2eb4-4054-b82b-d06eb67937ba.pdf) (see pages 2, 6, & 7), but note they are *not* representative of the Zip Top jerseys.
 
 
-## T-Shirt | $
+## T-Shirt | $20
 ![Event T-Shirt](/assets/img/TShirtTransparent.png){:style="max-width:300px;"}
 
-This is a standard cotton t-shirt.
-
-PRICE?
-SIZES AVAILABLE?
+This is a standard cotton t-shirt. Unisex: S-2XL
