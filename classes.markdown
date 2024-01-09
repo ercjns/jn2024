@@ -14,7 +14,7 @@ Friday is a stand-alone middle-distance National Ranking Event (NRE).
 
 Saturday and Sunday are the Orienteering USA Junior Nationals. The standard slate of OUSA competitive classes will also be available for anyone not eligible for Junior National Championship classes.
 
-Full eligibility details can be found in the [OUSA Rules](https://orienteeringusa.org/about/rules/), particularly sections **0.35** - **0.37**
+Full eligibility details can be found in the [OUSA Rules](https://orienteeringusa.org/about/rules/), particularly sections **A.35** - **A.37**
 
 Recreational courses are also be available on all three days. Pre-registration is *required* for all, *including recreational courses*.
 
@@ -90,15 +90,21 @@ There are eight Interscholastic (IS) Team categories:
 * Team IS School Varsity
 * Team IS School Junior Varsity
 * Team IS School Intermediate
+* Team IS School Primary*
 * Team IS Club Varsity
 * Team IS Club Junior Varsity
 * Team IS Club Intermediate
+* Team IS Club Primary*
 * Team JROTC Varsity
 * Team JROTC Junior Varsity
 
-Teams are up to 5 competitors, any combination of students eligible in the IS Varsity classes for Varsity teams, or IS Junior Varsity classes for Junior Varsity Teams, or IS Intermediate Classes for Intermediate Teams.
+Teams are up to 5 competitors, any combination of students eligible in the IS Varsity classes for Varsity teams, or IS Junior Varsity classes for Junior Varsity Teams, or IS Intermediate Classes for Intermediate Teams, or IS Primary Classes for Primary Teams.
+
+\* Primary Teams are not an OUSA Junior Nationals Championship class, but we will provide awards for Primary teams.
 
 To be eligible as a School Team all team members must be enrolled full-time at the same school, as demonstrated by a school ID for the same school, OR have an authorized exception, as demonstrated by an [Orienteering USA School Team Exception Form](https://drive.google.com/file/d/1vI_llPZD3t8OlflYtx3QJGl1v1un0KCK/view?usp=drive_link).
+
+
 
 ##### JROTC Teams 
 All team members must be enrolled in the same JROTC unit in accordance with the host military service requirements. 
