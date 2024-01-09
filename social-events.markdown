@@ -12,7 +12,17 @@ breadcrumbs:
 
 ## Jr. Social
 
-Saturday 4:30pm - 5:30pm at the Quincy Business Center
+A highlight of any national event is meeting your fellow student orienteers and swapping stories.  So, juniors, you won’t want to miss this event!
+
+Cascade Orienteering Club invites all juniors to join hosts Jessica Colleran and Caroline Sandbo for a free pre-dinner **juniors-only** social on Saturday, March 23 from 4-5:30 pm at the Quincy Event Center.
+* Meet your fellow student orienteers from around the country.
+* Play a fun game and maybe win some prizes.
+* Enjoy some free pre-dinner treats.
+
+This event is free, but registration is required!
+
+*Caroline is a former OUSA team member who has represented Team USA at multiple JWOC competitions and is currently a certified level 2 orienteering coach who has coached Team USA at JWOC. Jessica is a current member of the OUSA Team and has represented Team USA at both JWOC and WUOC.*
+
 
 ## Dinner
 
