@@ -37,4 +37,4 @@ Champion System’s sizing guides can be found [here](https://cdn.shopify.com/s/
 ## T-Shirt | $20
 ![Event T-Shirt](/assets/img/TShirtTransparent.png){:style="max-width:300px;"}
 
-This is a standard cotton t-shirt. Unisex: S-2XL
+This is a standard cotton t-shirt, base color is Navy. Unisex sizes: S-2XL available. (The picture color is a bit off, but the t-shirt is true Navy.)
