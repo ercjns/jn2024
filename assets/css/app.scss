@@ -1,0 +1,25 @@
+---
+---
+$primary: #6b9998;
+
+.navbar.is-primary .navbar-brand > .navbar-item {
+    color: rgb(53, 26, 40) !important;
+    font-weight: 800;
+}
+
+/*.navbar.is-primary .navbar-end > .navbar-item {
+}*/
+
+.hero.is-primary .title {
+    font-family: 'Outfit', sans-serif;
+    text-shadow: 2px 2px 5px rgb(53, 26, 40) !important;
+    color: rgb(240, 213, 185) !important;
+}
+
+.hero.is-primary .subtitle {
+    text-shadow: 1px 1px 5px rgb(53, 26, 40) !important;
+    color: rgb(240, 213, 185) !important;
+}
+
+// Import Main CSS file from theme
+@import "main";

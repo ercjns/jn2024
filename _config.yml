@@ -21,16 +21,22 @@
 title: Columbia Gorge Classic
 email: jn2024@cascadeoc.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Columbia Gorge Classic
-  2024 Junior National Orienteering Championships
-  Hosted By Cascade Orienteering Club
+  Columbia Gorge Classic 2024
+  Orienteering USA 2024 Junior National Championships
+  Hosted by Cascade Orienteering Club, March 22-24
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+footer_menu: footermenu
+
 # Build settings
-theme: minima
+theme: bulma-clean-theme
+plugins:
+  - jekyll-feed
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
