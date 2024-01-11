@@ -27,7 +27,7 @@ Champion System’s sizing guides can be found <a href="https://cdn.shopify.com/
 
 <div class="notification is-info is-light">
 <strong>Cascade Orienteering Club Volunteer Points</strong><br>
-The <strong>Zip Jersey</strong> may be purchased using COC Volunteer Points. To do so, purchase a jersey through the <a href="https://register.cascadeoc.org/" target="_blank">COC Registration System</a> rather than on EventReg.
+The <strong>Zip Jersey</strong> may be purchased using 25 COC Volunteer Points. To do so, purchase a jersey through the <a href="https://register.cascadeoc.org/" target="_blank">COC Registration System</a> rather than on EventReg.
 </div>
 
 ## Basic Jersey | $45
@@ -43,7 +43,7 @@ Champion System’s sizing guides can be found [here](https://cdn.shopify.com/s/
 
 <div class="notification is-info is-light">
 <strong>Cascade Orienteering Club Volunteer Points</strong><br>
-The <strong>Basic Jersey</strong> may be purchased using COC Volunteer Points. To do so, purchase a jersey through the <a href="https://register.cascadeoc.org/" target="_blank">COC Registration System</a> rather than on EventReg.
+The <strong>Basic Jersey</strong> may be purchased using 22 COC Volunteer Points. To do so, purchase a jersey through the <a href="https://register.cascadeoc.org/" target="_blank">COC Registration System</a> rather than on EventReg.
 </div>
 
 
