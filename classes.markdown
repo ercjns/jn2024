@@ -32,13 +32,10 @@ The table below follows the standard OUSA Course / Class mapping. Courses may be
 | Red |  | ICVM | F-21+ | M-20, M35+, M40+, M45+ | M-Red | Rec Red (Advanced) |
 | Blue |  |  |  | M-21+ |  | Rec Blue (Long Advanced) |
 
-<<<<<<< HEAD
 <div class="notification is-info is-light">
 All Competitive classes, including the "color" classes like F-Orange and M-Red are <strong>individual</strong> classes.<br><br>If a young child will have a safety shadow, they must register for a recreational class. This includes Interscholastic Primary - no shadows are allowed for Interscholastics competitors.<br><br>If you will participate as a group together on course, register for a recreational class. Max group size is 4 people.
 </div>
 
-=======
->>>>>>> main
 #### Junior Nationals Championship Classes
 
 |  Class  |     Description  |     Course  |     School Grade-level  |
