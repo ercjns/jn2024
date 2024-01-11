@@ -8,7 +8,7 @@ breadcrumbs:
   link: /venues/
 ---
 
-# Saturday at Quincy Lakes
+# Saturday Classic at Quincy Lakes
 
 ![Quincy Lakes](/assets/img/QuincyLakes300.jpg)
 

@@ -18,9 +18,17 @@ This is a fitted athletic top. Short sleeves with quarter-zip in front, zippered
 
 Men's: XS-4XL. Women's: XS-4XL.
 
-Cascade OC Members find that for the Zip Top Jersey Men's sizes run one size small in length and two sizes small in width, and Women's sizes run two sizes small in length and width. We recommend you order a size or two larger than normal.
+<div class="notification is-warning">
+Cascade OC Members find that for the Zip Top Jersey Men's sizes run one size small in length and two sizes small in width, and Women's sizes run two sizes small in length and width. We recommend you order a size or two larger than normal.<br>
+<br>
+Champion System’s sizing guides can be found <a href="https://cdn.shopify.com/s/files/1/2381/0229/files/Complete_Size_Guide-AU_2018-b_56bd7294-2eb4-4054-b82b-d06eb67937ba.pdf" target="_blank">here (pdf)</a> (see pages 2, 6, & 7), but note they are <i>not</i> representative of the Zip Top jerseys.
+</div>
 
-Champion System’s sizing guides can be found [here](https://cdn.shopify.com/s/files/1/2381/0229/files/Complete_Size_Guide-AU_2018-b_56bd7294-2eb4-4054-b82b-d06eb67937ba.pdf) (see pages 2, 6, & 7), but note they are *not* representative of the Zip Top jerseys.
+
+<div class="notification is-info is-light">
+<strong>Cascade Orienteering Club Volunteer Points</strong><br>
+The <strong>Zip Jersey</strong> may be purchased using COC Volunteer Points. To do so, purchase a jersey through the <a href="https://register.cascadeoc.org/" target="_blank">COC Registration System</a> rather than on EventReg.
+</div>
 
 ## Basic Jersey | $45
 ![Image](/assets/img/BasicJersey.png)
@@ -32,6 +40,11 @@ Men's: XS-4XL. Women's: XS-4XL. Youth: XS-XL.
 Cascade OC Members find that for the Basic Jersey Men's sizes run true to size, and Women's sizes run one size small. Women may want to order one size larger than normal.
 
 Champion System’s sizing guides can be found [here](https://cdn.shopify.com/s/files/1/2381/0229/files/Complete_Size_Guide-AU_2018-b_56bd7294-2eb4-4054-b82b-d06eb67937ba.pdf) (see pages 2, 6, & 7), but note they are *not* representative of the Zip Top jerseys.
+
+<div class="notification is-info is-light">
+<strong>Cascade Orienteering Club Volunteer Points</strong><br>
+The <strong>Basic Jersey</strong> may be purchased using COC Volunteer Points. To do so, purchase a jersey through the <a href="https://register.cascadeoc.org/" target="_blank">COC Registration System</a> rather than on EventReg.
+</div>
 
 
 ## T-Shirt | $20
