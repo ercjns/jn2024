@@ -34,7 +34,7 @@ Looking for registration help, have start time requests or questions?
 
 Need specific or technical assistance? **Event Directors can be reached at JN2024@CascadeOC.org**
 
-{% include youtube.html video="O_7u3pgmPLg" time=10 %}
+{% include youtube.html video="hDQ3MnNIFXA" time=2 %}
 
 
 
