@@ -23,3 +23,8 @@ $primary: #6b9998;
 
 // Import Main CSS file from theme
 @import "main";
+
+/* underline link URLs */
+.content a[href] {
+    text-decoration: underline;
+  }

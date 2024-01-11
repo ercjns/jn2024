@@ -8,15 +8,14 @@ hide_hero: true
 
 The Columbia Gorge Classic 2024 is a three-day event. Competitive and non-competitive (recreational) classes are available on all days. 
 
- <div class="notification is-info is-light">
+<div class="notification is-info is-light">
 There is <strong>no on-site registration</strong>, <i>including for recreational courses</i>. Everyone must pre-register on 
-<!-- <a href="https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024" target="_blank">EventReg</a>. -->
-EventReg.
+<a href="https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024" target="_blank">EventReg</a>.
 </div>
 
 Friday is a stand-alone National Ranking Event (NRE).
 
-Saturday and Sunday are also NREs, as well as the 2024 Oritneering USA Junior National Championships.
+Saturday and Sunday are also NREs, as well as the 2024 Orienteering USA Junior National Championships.
 
 Check the [Classes, Courses, and Eligibility](/classes/) page for more details. Generally, EventReg will point you towards the right class for you.
 
@@ -44,8 +43,19 @@ Check the [Classes, Courses, and Eligibility](/classes/) page for more details. 
 
 * E-Punch Rental: $5 per race
 * SIAC Air+ E-punch Rental: $7 per race
-* Adult OUSA Member Discount: $4 per race
-* Junior OUSA Member Discount: $2 per race
+* Adult OUSA Member Discount (NREs only): $4 per race
+* Junior OUSA Member Discount (NREs only): $2 per race
+
+<div class="notification is-info is-light">
+<strong>Cascade Orienteering Club Volunteer Points</strong><br>
+Adults registering for NREs may discount their race fee using COC Volunteer Points.<br>
+<ul>
+<li>If you register for one NRE, you may redeem 10 points for a $20 discount.</li>
+<li>If you register for two NREs, you may redeem 20 points for a $40 discount.</li>
+<li>If you register for the three NRE package you may redeem 25 points for $50 discount.</li>
+</ul>
+<i>E-mail JN2024Registrar@cascadeoc.org for a coupon code before you register. <strong>Discounts are only valid for Adult NRE Race Fees</strong>. No discount will be given if you have already paid on EventReg.</i>
+</div>
 
 ### Additional Items
 
@@ -59,4 +69,8 @@ Check the [Classes, Courses, and Eligibility](/classes/) page for more details. 
 |  Columbia Gorge Event [Basic Jersey](/shirts#basic-jersey--45) **by Feb 21 only**          |  $45 / $45 / no         |  $45 / $45 / no         |
 |  Columbia Gorge Event [T-Shirt](/shirts) **by Feb 21 only**    |  $20 / $20 / no         |  $20 / $20 / no         |
 
-
+<div class="notification is-info is-light">
+<strong>Cascade Orienteering Club Volunteer Points</strong><br>
+The <strong>Zip Jersey</strong> and <strong>Basic Jersey</strong> may be purchased using COC Volunteer Points. To do so, purchase a jersey through the <a href="https://register.cascadeoc.org/" target="_blank">COC Registration System</a> rather than on EventReg.<br>
+No other additional items may be purchased using Volunteer Points.
+</div>

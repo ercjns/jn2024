@@ -8,7 +8,7 @@ breadcrumbs:
   link: /venues/
 ---
 
-# Sunday at Bishop's Land
+# Sunday Classic at Bishop's Land
 
 ![Bishop's Land](/assets/img/BishopsLand300.jpg)
 

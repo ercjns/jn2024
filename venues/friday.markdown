@@ -8,7 +8,7 @@ breadcrumbs:
   link: /venues/
 ---
 
-# Friday at Frenchman Coulee
+# Friday Middle at Frenchman Coulee
 
 ![Frenchman Coulee](/assets/img/FrenchmanCoulee300.jpg)
 
