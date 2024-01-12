@@ -27,7 +27,7 @@ Check the [Classes, Courses, and Eligibility](/classes/) page for more details. 
 | Cut-off                | Register Before         |
 |------------------------|-------------------------|
 | Early Pricing          | Monday January 29, 11:59pm Pacific |
-| Shirts / Jerseys       | Wednesday February 21, 11:59pm Pacific |
+| Shirts / Jerseys       | Sunday February 18, 11:59pm Pacific |
 | Regular Pricing, Meals | Monday March 4, 11:59pm Pacific |
 | Late         | Friday March 15, 11:59pm Pacific |
 
@@ -66,9 +66,9 @@ Adults registering for NREs may discount their race fee using COC Volunteer Poin
 |---------------------------------------------|-----------------------|-----------------------|
 |  Saturday [Junior Social](/social-events#jr-social)   |   --                  |  Free, RSVP Required  |
 |  Saturday [Dinner](/social-events#dinner)          |  $16 / $16 / no       |  $12.50 / $12.50 / no       |
-|  Columbia Gorge Event [1/4 Zip Jersey](/shirts#14-zip-jersey--50) **by Feb 21 only**        |  $50 / $50 / no         |  $50 / $50 / no         |
-|  Columbia Gorge Event [Basic Jersey](/shirts#basic-jersey--45) **by Feb 21 only**          |  $45 / $45 / no         |  $45 / $45 / no         |
-|  Columbia Gorge Event [T-Shirt](/shirts) **by Feb 21 only**    |  $20 / $20 / no         |  $20 / $20 / no         |
+|  Columbia Gorge Event [1/4 Zip Jersey](/shirts#14-zip-jersey--50) **by Feb 18 only**        |  $50 / $50 / no         |  $50 / $50 / no         |
+|  Columbia Gorge Event [Basic Jersey](/shirts#basic-jersey--45) **by Feb 18 only**          |  $45 / $45 / no         |  $45 / $45 / no         |
+|  Columbia Gorge Event [T-Shirt](/shirts) **by Feb 18 only**    |  $20 / $20 / no         |  $20 / $20 / no         |
 
 <div class="notification is-info is-light">
 <strong>Cascade Orienteering Club Volunteer Points</strong><br>

@@ -9,7 +9,7 @@ breadcrumbs:
 ---
 
 # Apparel
-Jerseys and T-Shirts are avaialable. To order, add your desired item(s) to your registration in EventReg. You must complete your registration by February 21! No items will be for sale at the event in March.
+Jerseys and T-Shirts are avaialable. To order, add your desired item(s) to your registration in EventReg. You must complete your registration by **February 18**! No items will be for sale at the event in March.
 
 ## 1/4 Zip Jersey | $50
 ![Image](/assets/img/ZipJerseyWithElements.png)
