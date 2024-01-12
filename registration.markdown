@@ -10,8 +10,7 @@ The Columbia Gorge Classic 2024 is a three-day event. Competitive and non-compet
 
 <div class="notification is-info is-light">
 There is <strong>no on-site registration</strong>, <i>including for recreational courses</i>. Everyone must pre-register on 
-EventReg.
-<!-- <a href="https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024" target="_blank">EventReg</a>. -->
+<a href="https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024" target="_blank" rel="noopener noreferrer">EventReg</a>.
 </div>
 
 Friday is a stand-alone National Ranking Event (NRE).
@@ -35,7 +34,7 @@ Check the [Classes, Courses, and Eligibility](/classes/) page for more details. 
 
 ### Races
 
-|  Race Fees (Early / Regular / Late)         |  Adult                |  Junior               |
+|  Race Fees (Early / Regular / Late)         |  Adult                |  Junior (20 and under)        |
 |---------------------------------------------|-----------------------|-----------------------|
 |  Columbia Gorge Three Race Package (Fri, Sat, Sun)     |  $125 / $150 / $200   |  $65 / $80 / $100     |
 |  Two Race Jr. Nationals Package (Sat, Sun)           |  $100 / $120 / $160   |  $60 / $70 / $80      |
