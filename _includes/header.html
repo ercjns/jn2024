@@ -22,7 +22,7 @@
                         <a href="{{ item.link | relative_url }}" class="navbar-link {% if page.url contains item.link %}is-active{% endif %}">{{ item.name }}</a>
                         <div class="navbar-dropdown">
                             {% for subitem in item.dropdown %}
-                            <a href="{{ subitem.link | relative_url }}" class="navbar-item {% if subitem.link == page.url %}is-active{% endif %}" {% if subitem.link contains 'eventreg.orienteeringusa.org' %}target="_blank"{% endif %}>{{ subitem.name }}</a>
+                            <a href="{{ subitem.link | relative_url }}" class="navbar-item {% if subitem.link == page.url %}is-active{% endif %}" {% if subitem.link contains 'eventreg.orienteeringusa.org' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ subitem.name }}</a>
                             {% endfor %}
                         </div>
                     </div>
@@ -33,12 +33,12 @@
                 {% endif %}
             </div>
 
-            <!-- <div class="navbar-end">
-                <a class="navbar-item" href="https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024" target="_blank">
+            <div class="navbar-end">
+                <a class="navbar-item" href="https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024" target="_blank" rel="noopener noreferrer">
                     <span class="fa-solid fa-ticket"></span>&nbsp;
                     <span>Register Now!</span>
                 </a>
-            </div> -->
+            </div>
 
         </div>
     </div>
