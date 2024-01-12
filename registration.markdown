@@ -10,7 +10,8 @@ The Columbia Gorge Classic 2024 is a three-day event. Competitive and non-compet
 
 <div class="notification is-info is-light">
 There is <strong>no on-site registration</strong>, <i>including for recreational courses</i>. Everyone must pre-register on 
-<a href="https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024" target="_blank">EventReg</a>.
+EventReg.
+<!-- <a href="https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024" target="_blank">EventReg</a>. -->
 </div>
 
 Friday is a stand-alone National Ranking Event (NRE).

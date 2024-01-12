@@ -8,9 +8,9 @@ hide_hero: true
 
 We'll post important notices here as necessary. For now, check out the [Schedule](/schedule), review [Registration](/registration) and [Venue](/venues) information, plan your [Travel](/travel), and get excited! We're looking forward to hosting you!
 
-## January 11, 2024
+<!-- ## January 11, 2024
 
-Registration is now open on [EventReg](https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024)!
+Registration is now open on [EventReg](https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024)! -->
 
 ## January 9, 2024
 
