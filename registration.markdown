@@ -65,7 +65,7 @@ Adults registering for NREs may discount their race fee using COC Volunteer Poin
 |  Additional Items (Early / Regular / Late)  |  Adult                |  Junior               |
 |---------------------------------------------|-----------------------|-----------------------|
 |  Saturday [Junior Social](/social-events#jr-social)   |   --                  |  Free, RSVP Required  |
-|  Saturday [Dinner](/social-events#dinner)          |  $16 / $16 / no       |  $12.50 / $12.50 / no       |
+|  Saturday [Dinner](/social-events#dinner)          |  $17 / $17 / no       |  $14 / $14 / no       |
 |  Columbia Gorge Event [1/4 Zip Jersey](/shirts#14-zip-jersey--50) **by Feb 18 only**        |  $50 / $50 / no         |  $50 / $50 / no         |
 |  Columbia Gorge Event [Basic Jersey](/shirts#basic-jersey--45) **by Feb 18 only**          |  $45 / $45 / no         |  $45 / $45 / no         |
 |  Columbia Gorge Event [T-Shirt](/shirts) **by Feb 18 only**    |  $20 / $20 / no         |  $20 / $20 / no         |
