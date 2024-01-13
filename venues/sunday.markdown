@@ -18,7 +18,11 @@ See the [schedule](/schedule) for start windows and course closure. EVERYONE has
 
 ## Map Information
 
-The Bishops Land Recreation Area topography is a direct result of the Glacial Lake Missoula floods. Ancient flood waters poured through the Quincy area and scoured trenches and pools adjacent to the existing Columbia River. These scoured areas have created small buttes and valleys that create a warren of navigable terrain. The area is covered with sage and low-lying vegetation that can obscure smaller point features. However, good contact with the map will provide plenty of attack points and catching features. There are enough roads and trails crossing the east half of the venue to allow for challenges for the younger runners. Due to the seemingly endless channels, courses can provide equal challenges north and south as well as east and west. The venue is a course designer’s dream and a competitor’s welcome challenge. 
+The Bishops Land Recreation Area topography is a direct result of the Glacial Lake Missoula floods. Ancient flood waters poured through the Quincy area and scoured trenches and pools adjacent to the existing Columbia River. These scoured areas have created small buttes and valleys that create a warren of navigable terrain. The area is covered with sage and low-lying vegetation that can obscure smaller point features. However, good contact with the map will provide plenty of attack points and catching features. There are enough roads and trails crossing the east half of the venue to allow for challenges for the younger runners. Due to the seemingly endless channels, courses can provide equal challenges north and south as well as east and west. The venue is a course designer’s dream and a competitor’s welcome challenge.
+
+Download a map of the area used at a previous event: {% include gdrive-link.html TEXT="Bishop's Land - Letter" FILEID="1Md0yVH9UVJ_KZq7wCSBVl_9NWMd0hOrZ" %}
+
+*Reminder that the map shows embargoed areas, and that posession of the map does not imply permission to enter.*
 
 ## Course Notes
 

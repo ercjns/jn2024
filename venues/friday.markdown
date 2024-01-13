@@ -18,6 +18,10 @@ See the [schedule](/schedule) for start windows and course closure. EVERYONE has
 
 Frenchman Coulee terrain is composed mostly of a relatively flat sagebrush covered plain bordered by rolling hills to the south. Bisecting the plain are Pleistocene aged flood channels carved into underlying basalt formations. Running the length of the channel are shale slopes and cliffs. The presence of these long linear features interspersed with shale slopes makes for challenging route finding while crossing the plain. Located within the limits of these channels are ponds, marshes and small waterways. The wet areas of Frenchman are often lined with dense vegetation creating a challenging traverse. Within the limits of the map are other navigable linear features in the form of old fence lines, creek beds, distinct reentrants and spurs. Point features consist of old equipment, knolls, hilltops and depressions. The flatter terrain to the east has trails and old roads for the younger runners to navigate as well as significant linear features to follow. While there are significant cliffs to the west, younger runners will be routed far back from these features. Courses at this venue are surprisingly technical and always fast. 
 
+Download a map of the area used at a previous event: {% include gdrive-link.html TEXT="Frenchman Coulee - Letter" FILEID="15vbvfpfUWO-fQHtWqH5ryiMhPgzsY1WP" %}
+
+*Reminder that the map shows embargoed areas, and that posession of the map does not imply permission to enter.*
+
 ## Course Notes
 
 Coming soon
