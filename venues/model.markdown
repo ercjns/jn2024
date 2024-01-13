@@ -16,9 +16,11 @@ The model course will be open 10:00am-4:00pm on Friday and 7:00am-3:00pm on Satu
 
 ## Map Information
 
+Coming soon.
+
 ## Course Notes
 
-Start to the NORTH only. Do not enter competition area South of the road!
+Coming soon.
 
 ## Getting There
 

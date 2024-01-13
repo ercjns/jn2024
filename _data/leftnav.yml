@@ -12,13 +12,13 @@
     - name: Race Venues and Info
       link: /venues/
       items:
-        - name: Model Event
+        - name: Model Event at Frenchman Spring
           link: /venues/model/
-        - name: Friday at Frenchman Coulee
+        - name: Friday Middle at Frenchman Coulee
           link: /venues/friday/
-        - name: Saturday at Quincy Lakes South
+        - name: Saturday Classic at Quincy Lakes South
           link: /venues/saturday/
-        - name: Sunday at Bishop's Land
+        - name: Sunday Classic at Bishop's Land
           link: /venues/sunday/
     - name: Results
       link: /results/

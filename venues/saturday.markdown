@@ -20,6 +20,10 @@ See the [schedule](/schedule) for start windows and course closure. EVERYONE has
 
 Quincy Lakes is a cross between a series of interconnected water features and a seemingly endless glacially created scab lands. The east portion of the map is inundated with a maze of coulees while the south portion of the map is a relatively flat sage covered plain. The map combines technical and fast paced map reading while traveling from west from the start. Once through the well developed channels and pools runners will encounter terrain where features are subtle and far apart. Runners will need to use compass and a pace count to execute a tight race. While there are fewer trails on this map, younger runners will be able to follow the base of cliffs and run along water features when moving between trails. In addition to the abundant linear features that are numerous subtle point features in the form of depressions.
 
+Download a map of the area used at a previous event: {% include gdrive-link.html TEXT="Quincy Lakes South - Tabloid" FILEID="1kBU28Ng4tvdmiXVpvYV65O2VChSijZ1b" %} \| {% include gdrive-link.html TEXT="Quincy Lakes South - Letter - East" FILEID="1TeSqHogl87OI1cRonsTeQrAK0-h32Oik" %} \| {% include gdrive-link.html TEXT="Quincy Lakes South - Letter - West" FILEID="1veFMh-S4c4g1fQDesnjmyBtISSd7scrv" %}
+
+*Reminder that the map shows embargoed areas, and that posession of the map does not imply permission to enter.*
+
 ## Course Notes
 
 Coming soon
