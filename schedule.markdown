@@ -26,9 +26,9 @@ hide_hero: true
 
 **3:00pm** Courses Close
 
-**4:00pm - 5:30pm** [Junior Social](/social-events) at Quincy Business Center
+**4:00pm - 5:30pm** [Junior Social](/social-events) at Quincy Business & Event Center
 
-**6:00pm - 8:00pm** [Welcome Dinner](/social-events) and Friday Awards at Quincy Business Center
+**6:00pm - 8:00pm** [Welcome Dinner](/social-events) and Friday Awards at Quincy Business & Event Center
 
 ## Sunday March 24
 
@@ -38,4 +38,4 @@ hide_hero: true
 
 **2:30pm** Courses Close
 
-**2:30pm** Closing Ceremony and Awards (Sat/Sun races) at Quincy Business Center
+**2:30pm\*** [Closing Ceremony and Awards](/social-events) (Sat/Sun races) at Quincy Business & Event Center
