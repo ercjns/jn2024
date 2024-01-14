@@ -23,10 +23,12 @@ Visit the event pages for specific driving directions
 
 ### Other Addresses
 
+#### Events
+**Quincy Business & Event Center**: 115 F St SW, Quincy, WA 98848
+
 #### Medical
 **Washington Pharmacy**: 918 13th Ave SW STE- F, Quincy, WA 98848
 
 **Quincy Valley Medical Center**: 908 10th Ave SW, Quincy, WA 98848
 
-#### Events
-**Quincy Business Center**: 115 F St SW, Quincy, WA 98848
+
