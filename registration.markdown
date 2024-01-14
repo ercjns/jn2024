@@ -19,7 +19,7 @@ Saturday and Sunday are also NREs, as well as the 2024 Orienteering USA Junior N
 
 Check the [Classes, Courses, and Eligibility](/classes/) page for more details. Generally, EventReg will point you towards the right class for you.
 
-<!-- [See who is registered on EventReg](). -->
+[See who is registered <span class="fa-solid fa-up-right-from-square"></span>](https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Timelines
 
