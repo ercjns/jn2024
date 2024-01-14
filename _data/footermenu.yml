@@ -1,4 +1,7 @@
-- name: Orienteering USA
-  link: https://orienteeringusa.org
 - name: Cascade Orienteering Club
   link: https://cascadeoc.org
+  img: /assets/img/COCLogo.png
+- name: Orienteering USA
+  link: https://orienteeringusa.org
+  img: /assets/img/OUSALogo.png
+

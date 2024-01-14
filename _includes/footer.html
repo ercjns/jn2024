@@ -6,7 +6,10 @@
             {% for item in site.data[site.footer_menu] %}
             <div class="column has-text-centered">
                 <div>
-                    <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+                    <a href="{{ item.link | relative_url }}" class="link" target="_blank" rel="noopener noreferrer">
+                        <img src="{{ item.img | relative_url }}" width="200" alt="{{ item.name }}">
+                        <br>{{ item.name }}
+                    </a>
                 </div>
             </div>
             {% endfor %}
@@ -15,7 +18,7 @@
 
         <div class="content is-small has-text-centered">
             <p class="">Site designed by Eric Jones</p>
-            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+            <p class="">Theme by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
         </div>
     </div>
 </footer>
