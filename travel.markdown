@@ -73,6 +73,6 @@ This is the off-season. Campgrounds do NOT have running water - no services othe
 ## Things to See and Do
 * [Ginkgo Petrified Forest State Park](https://parks.wa.gov/find-parks/state-parks/ginkgo-petrified-forest-state-park)
 * [Grant County & Wanapum Dam Visitor Center](https://www.grantpud.org/visit-us)
-* [Wanapum Heritage Center](https://www.grantpud.org/visit-us)
+* [Wanapum Heritage Center](https://wanapum.org/)
 * [Leavenworth, WA (German Town)](https://leavenworth.org/)
 * [Grand Coulee Dam Visitor Center](https://www.usbr.gov/pn/grandcoulee/visit/gcvc.html)
