@@ -26,6 +26,10 @@ Download a map of the area used at a previous event: {% include gdrive-link.html
 
 Coming soon
 
+<div class="notification is-info is-light">
+All controls at this event will be in "beacon" mode, so touch-free punching using SIACs (SI Air+ Cards) will be enabled. SIAC rentals are available. Standard SportIdent E-punches work like normal.
+</div>
+
 ## Site Map
 
 Coming soon
