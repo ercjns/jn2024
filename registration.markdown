@@ -57,6 +57,10 @@ Adults registering for NREs may discount their race fee using COC Volunteer Poin
 <i>E-mail JN2024Registrar@cascadeoc.org for a coupon code before you register. <strong>Discounts are only valid for Adult NRE Race Fees</strong>. No discount will be given if you have already paid on EventReg.</i>
 </div>
 
+### Volunteer
+
+Can you spare a few hours to help us create a world class event? You'll earn points good for registration at future Cascade OC events and the warmest thanks of our event directors. [Volunteer info](/volunteer/)
+
 ### Additional Items
 
 ![Image](/assets/img/ZipJerseyWithElements.png)

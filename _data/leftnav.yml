@@ -33,3 +33,5 @@
           link: /shirts/
         - name: Register on EventReg&nbsp;<span class="fa-solid fa-up-right-from-square"></span>
           link: https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024
+    - name: Volunteer
+      link: /volunteer/
