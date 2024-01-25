@@ -22,11 +22,23 @@ Quincy Lakes is a cross between a series of interconnected water features and a 
 
 Download a map of the area used at a previous event: {% include gdrive-link.html TEXT="Quincy Lakes South - Tabloid" FILEID="1kBU28Ng4tvdmiXVpvYV65O2VChSijZ1b" %} \| {% include gdrive-link.html TEXT="Quincy Lakes South - Letter - East" FILEID="1TeSqHogl87OI1cRonsTeQrAK0-h32Oik" %} \| {% include gdrive-link.html TEXT="Quincy Lakes South - Letter - West" FILEID="1veFMh-S4c4g1fQDesnjmyBtISSd7scrv" %}
 
-*Reminder that the map shows embargoed areas, and that posession of the map does not imply permission to enter.*
+*Reminder that the map shows embargoed areas, and that possession of the map does not imply permission to enter.*
 
 ## Course Notes
 
 Coming soon
+
+Preliminary course information - exact statistics will be provided when courses are finalized.
+
+| Course | Distance |
+|--------|----------|
+| White  | 2 km   |
+| Yellow | 2-3 km   |
+| Orange | 4-5 km   |
+| Brown  | 4-5 km   |
+| Green  | 5-7 km   |
+| Red    | 7-9 km   |
+| Blue   | 9-10 km   |
 
 <div class="notification is-info is-light">
 All controls at this event will be in "beacon" mode, so touch-free punching using SIACs (SI Air+ Cards) will be enabled. SIAC rentals are available. Standard SportIdent E-punches work like normal.

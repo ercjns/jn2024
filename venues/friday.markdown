@@ -20,11 +20,21 @@ Frenchman Coulee terrain is composed mostly of a relatively flat sagebrush cover
 
 Download a map of the area used at a previous event: {% include gdrive-link.html TEXT="Frenchman Coulee - Letter" FILEID="15vbvfpfUWO-fQHtWqH5ryiMhPgzsY1WP" %}
 
-*Reminder that the map shows embargoed areas, and that posession of the map does not imply permission to enter.*
+*Reminder that the map shows embargoed areas, and that possession of the map does not imply permission to enter.*
 
 ## Course Notes
 
 Coming soon
+
+| Course | Distance | Climb | Controls |
+|--------|----------|-------|----------|
+| White  | 1.3 km   |  40m  |  9       |
+| Yellow | 1.9 km   |  75m  | 10       |
+| Orange | 2.5 km   | 100m  | 12       |
+| Brown  | 3.0 km   | 115m  | 14       |
+| Green  | 3.5 km   | 140m  | 14       |
+| Red    | 4.4 km   | 210m  | 17       |
+| Blue   | 5.0 km   | 260m  | 17       |
 
 <div class="notification is-info is-light">
 All controls at this event will be in "beacon" mode, so touch-free punching using SIACs (SI Air+ Cards) will be enabled. SIAC rentals are available. Standard SportIdent E-punches work like normal.
