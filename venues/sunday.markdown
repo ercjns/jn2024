@@ -22,11 +22,23 @@ The Bishops Land Recreation Area topography is a direct result of the Glacial La
 
 Download a map of the area used at a previous event: {% include gdrive-link.html TEXT="Bishop's Land - Letter" FILEID="1Md0yVH9UVJ_KZq7wCSBVl_9NWMd0hOrZ" %}
 
-*Reminder that the map shows embargoed areas, and that posession of the map does not imply permission to enter.*
+*Reminder that the map shows embargoed areas, and that possession of the map does not imply permission to enter.*
 
 ## Course Notes
 
 Coming soon
+
+Preliminary course information - exact statistics will be provided when courses are finalized.
+
+| Course | Distance |
+|--------|----------|
+| White  | 2 km   |
+| Yellow | 2-3 km   |
+| Orange | 4-5 km   |
+| Brown  | 4-5 km   |
+| Green  | 5-7 km   |
+| Red    | 7-9 km   |
+| Blue   | 9-10 km   |
 
 <div class="notification is-info is-light">
 All controls at this event will be in "beacon" mode, so touch-free punching using SIACs (SI Air+ Cards) will be enabled. SIAC rentals are available. Standard SportIdent E-punches work like normal.
