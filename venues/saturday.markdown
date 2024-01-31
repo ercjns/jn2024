@@ -28,17 +28,16 @@ Download a map of the area used at a previous event: {% include gdrive-link.html
 
 Coming soon
 
-Preliminary course information - exact statistics will be provided when courses are finalized.
+| Course | Distance | Climb | Controls |
+|--------|----------|-------|----------|
+| White  | 1.7 km   |  55m  | 12       |
+| Yellow | 2.9 km   |  75m  | 14       |
+| Orange | 4.2 km   | 100m  | 16       |
+| Brown  | 4.3 km   | 100m  | 15       |
+| Green  | 5.9 km   | 150m  | 17       |
+| Red    | 8.2 km   | 195m  | 19       |
+| Blue   | 10.8 km  | 230m  | 21       |
 
-| Course | Distance |
-|--------|----------|
-| White  | 2 km   |
-| Yellow | 2-3 km   |
-| Orange | 4-5 km   |
-| Brown  | 4-5 km   |
-| Green  | 5-7 km   |
-| Red    | 7-9 km   |
-| Blue   | 9-10 km   |
 
 <div class="notification is-info is-light">
 All controls at this event will be in "beacon" mode, so touch-free punching using SIACs (SI Air+ Cards) will be enabled. SIAC rentals are available. Standard SportIdent E-punches work like normal.
