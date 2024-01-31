@@ -25,7 +25,7 @@ Check the [Classes, Courses, and Eligibility](/classes/) page for more details. 
 
 | Cut-off                | Register Before         |
 |------------------------|-------------------------|
-| Early Pricing          | Monday January 29, 11:59pm Pacific |
+| ~~Early Pricing~~          | ~~Monday January 29, 11:59pm Pacific~~ |
 | Shirts / Jerseys       | Sunday February 18, 11:59pm Pacific |
 | Regular Pricing, Meals | Monday March 4, 11:59pm Pacific |
 | Late         | Friday March 15, 11:59pm Pacific |
@@ -34,11 +34,11 @@ Check the [Classes, Courses, and Eligibility](/classes/) page for more details. 
 
 ### Races
 
-|  Race Fees (Early / Regular / Late)         |  Adult                |  Junior (20 and under)        |
+|  Race Fees (~~Early~~ / Regular / Late)         |  Adult                |  Junior (20 and under)        |
 |---------------------------------------------|-----------------------|-----------------------|
-|  Columbia Gorge Three Race Package (Fri, Sat, Sun)     |  $125 / $150 / $200   |  $65 / $80 / $100     |
-|  Two Race Jr. Nationals Package (Sat, Sun)           |  $100 / $120 / $160   |  $60 / $70 / $80      |
-|  Single NRE, Each                  |  $50 / $60 / $80      |  $30 / $35 / $40      |
+|  Columbia Gorge Three Race Package (Fri, Sat, Sun)     |  ~~$125~~ / $150 / $200   |  ~~$65~~ / $80 / $100     |
+|  Two Race Jr. Nationals Package (Sat, Sun)           |  ~~$100~~ / $120 / $160   |  ~~$60~~ / $70 / $80      |
+|  Single NRE, Each                  |  ~~$50~~ / $60 / $80      |  ~~$30~~ / $35 / $40      |
 |  Single Recreational Course, Each  |  $20      |  $20      |
 
 * E-Punch Rental: $5 per race
