@@ -9,9 +9,18 @@ breadcrumbs:
 ---
 
 # Apparel
-Jerseys and T-Shirts are avaialable. To order, add your desired item(s) to your registration in EventReg. You must complete your registration by **February 18**! No items will be for sale at the event in March.
+
+<div class="notification is-light is-danger">
+<b>The deadline for ordering Jerseys and T-Shirts was February 18th.</b>
+</div>
+
+Jerseys and T-Shirts are available. To order, add your desired item(s) to your registration in EventReg. You must complete your registration by **February 18**! No items will be for sale at the event in March.
 
 ## 1/4 Zip Jersey | $50
+<div class="notification is-light is-danger">
+<b>The deadline for ordering Jerseys and T-Shirts was February 18th.</b>
+</div>
+
 ![Image](/assets/img/ZipJerseyWithElements.png)
 
 This is a fitted athletic top. Short sleeves with quarter-zip in front, zippered pocket on rear, one stash pocket on each side, and reflective strips. Crew neck for both men and women. The men’s version has a slimmer cut than other men’s items; the women’s version has the same cut as other women’s items. 
@@ -31,6 +40,10 @@ The <strong>Zip Jersey</strong> may be purchased using 25 COC Volunteer Points. 
 </div>
 
 ## Basic Jersey | $45
+<div class="notification is-light is-danger">
+<b>The deadline for ordering Jerseys and T-Shirts was February 18th.</b>
+</div>
+
 ![Image](/assets/img/BasicJersey.png)
 
 This is a high quality tech tee. Crew neck for men and youth, v-neck for women. 
@@ -48,6 +61,10 @@ The <strong>Basic Jersey</strong> may be purchased using 22 COC Volunteer Points
 
 
 ## T-Shirt | $20
+<div class="notification is-light is-danger">
+<b>The deadline for ordering Jerseys and T-Shirts was February 18th.</b>
+</div>
+
 ![Event T-Shirt](/assets/img/TShirtTransparent.png){:style="max-width:300px;"}
 
 This is a standard cotton t-shirt, base color is Navy. Unisex sizes: S-2XL available. (The picture color is a bit off, but the t-shirt is true Navy.)
