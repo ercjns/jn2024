@@ -78,3 +78,11 @@ Can you spare a few hours to help us create a world class event? You'll earn poi
 The <strong>Zip Jersey</strong> and <strong>Basic Jersey</strong> may be purchased using COC Volunteer Points. To do so, purchase a jersey through the <a href="https://register.cascadeoc.org/" target="_blank">COC Registration System</a> rather than on EventReg.<br>
 No other additional items may be purchased using Volunteer Points.
 </div>
+
+### Cancellation Policy
+
+Race fees are refundable in full if requested by March 15.
+
+Shirts and meals are refundable only before their respective cutoff dates (Feb 21 and March 4).
+
+Please do not travel if you are sick. Contact us if illness or injury after March 15 prevents you from attending.
