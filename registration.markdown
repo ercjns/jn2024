@@ -23,12 +23,16 @@ Check the [Classes, Courses, and Eligibility](/classes/) page for more details. 
 
 ## Timelines
 
+<div class="notification is-warning">
+<span class="fa-solid fa-triangle-exclamation"></span> The late registration cutoff has moved forward. <strong>The last day to register is now Saturday, March 9.</strong>
+</div>
+
 | Cut-off                | Register Before         |
 |------------------------|-------------------------|
 | ~~Early Pricing~~          | ~~Monday January 29, 11:59pm Pacific~~ |
 | ~~Shirts / Jerseys~~       | ~~Sunday February 18, 11:59pm Pacific~~ |
-| Regular Pricing, Meals | Monday March 4, 11:59pm Pacific |
-| Late         | Friday March 15, 11:59pm Pacific |
+| ~~Regular Pricing, Meals~~ | ~~Monday March 4, 11:59pm Pacific~~ |
+| Late         | Saturday March 9, 11:59pm Pacific |
 
 ## Pricing
 
@@ -36,9 +40,9 @@ Check the [Classes, Courses, and Eligibility](/classes/) page for more details. 
 
 |  Race Fees (~~Early~~ / Regular / Late)         |  Adult                |  Junior (20 and under)        |
 |---------------------------------------------|-----------------------|-----------------------|
-|  Columbia Gorge Three Race Package (Fri, Sat, Sun)     |  ~~$125~~ / $150 / $200   |  ~~$65~~ / $80 / $100     |
-|  Two Race Jr. Nationals Package (Sat, Sun)           |  ~~$100~~ / $120 / $160   |  ~~$60~~ / $70 / $80      |
-|  Single NRE, Each                  |  ~~$50~~ / $60 / $80      |  ~~$30~~ / $35 / $40      |
+|  Columbia Gorge Three Race Package (Fri, Sat, Sun)     |  ~~$125~~ / ~~$150~~ / $200   |  ~~$65~~ / ~~$80~~ / $100     |
+|  Two Race Jr. Nationals Package (Sat, Sun)           |  ~~$100~~ / ~~$120~~ / $160   |  ~~$60~~ / ~~$70~~ / $80      |
+|  Single NRE, Each                  |  ~~$50~~ / ~~$60~~ / $80      |  ~~$30~~ / ~~$35~~ / $40      |
 |  Single Recreational Course, Each  |  $20      |  $20      |
 
 * E-Punch Rental: $5 per race
@@ -67,8 +71,8 @@ Can you spare a few hours to help us create a world class event? You'll earn poi
 
 |  Additional Items (Early / Regular / Late)  |  Adult                |  Junior               |
 |---------------------------------------------|-----------------------|-----------------------|
-|  Saturday [Junior Social](/social-events#jr-social)   |   --                  |  Free, RSVP Required  |
-|  Saturday [Dinner](/social-events#dinner)          |  $17 / $17 / no       |  $14 / $14 / no       |
+|  ~~Saturday [Junior Social](/social-events#jr-social)~~ **by Mar 4 only**  |   --                  |  ~~Free, RSVP Required~~  |
+|  ~~Saturday [Dinner](/social-events#dinner)~~ **by Mar 4 only**          |  ~~$17~~ / ~~$17~~ / no       |  ~~$14~~ / ~~$14~~ / no       |
 |  ~~Columbia Gorge Event [1/4 Zip Jersey](/shirts#14-zip-jersey--50)~~ **by Feb 18 only**        |  ~~$50~~ / ~~$50~~ / no         |  ~~$50~~ / ~~$50~~ / no         |
 |  ~~Columbia Gorge Event [Basic Jersey](/shirts#basic-jersey--45)~~ **by Feb 18 only**          |  ~~$45~~ / ~~$45~~ / no         |  ~~$45~~ / ~~$45~~ / no         |
 |  ~~Columbia Gorge Event [T-Shirt](/shirts)~~ **by Feb 18 only**    |  ~~$20~~ / ~~$20~~ / no         |  ~~$20~~ / ~~$20~~ / no         |
