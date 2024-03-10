@@ -28,6 +28,8 @@ Download a map of the area used at a previous event: {% include gdrive-link.html
 
 Coming soon
 
+Course stats are representative and will be updated when final.
+
 | Course | Distance | Climb | Controls |
 |--------|----------|-------|----------|
 | White  | 1.7 km   |  55m  | 12       |
@@ -53,35 +55,46 @@ Coming soon
 A <strong>Discover Pass</strong> (Washington State Parks Pass) is required for parking. <strong><i>There is no way to purchase a pass on site</i></strong>! You can buy one ahead of time <a href="https://store.discoverpass.wa.gov/" target="_blank">online</a> or <a href="https://www.discoverpass.wa.gov/133/Where-to-Buy" target="_blank">in person</a> at some stores and parks.
 </div>
 
-#### Address / Coordinates: 
-Road T NW, 3 miles south of Rd 5 NW  (47.127111, -119.932861)
+<div class="notification is-warning">
+Due to high turnout the primary parking location has changed from what was originally posted. There is a locked gate just north of the event center. <strong>The primary parking area will be to the south of the gate</strong>. Approach from the south <a href="#address--coordinates">using the directions below</a>.
+</div>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2711.5656298123745!2d-119.93543592397026!3d47.12711462096586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDfCsDA3JzM3LjYiTiAxMTnCsDU1JzU4LjMiVw!5e0!3m2!1sen!2sus!4v1703308455133!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="notification is-info is-light">
+<strong>Volunteers only</strong> should approach the venue from the north, following <a href="https://cascadeoc.org/map/quincy-lakes-south/" target="_blank">Cascade's standard directions</a> and park in the small lots along Rd T anywhere at or south of the lake.
+</div>
+
+#### Address / Coordinates: 
+Road U NW, 0.75 miles north of Rd 2 NW  (47.1253, -119.9347)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2714.661751889926!2d-119.93470000000002!3d47.125299999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDfCsDA3JzMxLjEiTiAxMTnCsDU2JzA0LjkiVw!5e0!3m2!1sen!2sus!4v1710109153187!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 #### From I-90 Eastbound (From Vantage and Seattle):
-1. Take Exit 149, WA 281 North, Quincy / Wenatchee
-1. Turn left (North) on WA 281. Continue 5.6 miles.
-1. Turn left (West) on Rd 5 NW (also signed White Trail Rd). Continue 3.1 miles.
-1. Turn left (South) on Rd T NW. Continue about 3.0 miles.
+1. Take Exit 143, East Silica Rd SW
+1. Turn left (North) on East Silica Rd SW. Continue 6.9 miles
+1. Follow the right turn (East) where Silica Rd NW becomes Rd 1 NW. Continue 2 miles.
+1. Turn left (North) on Rd U NW. Continue 1 mile.
+1. Turn left (West) on Rd 2 NW, then immediate right (North/East) on Rd U NW. Continue about 0.75 miles
 1. Watch for orienteering parking signs.
 
 #### From I-90 Westbound (From Moses Lake and Spokane):
 1. Take Exit 151, WA 281 North, Quincy / Wenatchee
-1. Turn right (North) on WA 281. Continue 1.6 miles.
-1. Turn right (North) on WA 281. Continue 2.9 miles.
-1. Turn left (West) on Rd 5 NW (also signed White Trail Rd). Continue 3.1 miles.
-1. Turn left (South) on Rd T NW. Continue about 3.0 miles.
+1. Turn right (North) on WA 281. Continue 0.1 miles.
+1. Turn left (South/West) on Rd 1 NW. Continue 1 mile.
+1. Continue straight (slight left to stay on main paved road) (South/West) on Beverly Burke Rd. Continue 0.6 miles.
+1. Turn right (North/West) on Rd 1 NW. Continue 3.8 miles.
+1. Turn right (North) on Rd U NW. Continue 1 mile.
+1. Turn left (West) on Rd 2 NW, then immediate right (North/East) on Rd U NW. Continue about 0.75 miles
 1. Watch for orienteering parking signs.
 
 #### From WA 28 Eastbound (From Wenatchee):
-1. Turn right (South) on Rd U NW (also signed White Trail Rd). Continue 5.8 miles.
-1. Turn left (South) on Rd T NW. Continue about 3.0 miles.
-1. Watch for orienteering parking signs.
+1. Follow WA 28 to Qunicy, then follow directions below.
 
 #### From Quincy:
-1. Head south on WA-281 for 4.9 miles.
-1. Turn right (West) on Rd 5 NW (also signed White Trail Rd). Continue 3.1 miles.
-1. Turn left (South) on Rd T NW. Continue about 3.0 miles.
+1. Follow WA 281 South from Quincy for 9.0 miles.
+1. Turn slight right (South/West) on Beverly Burke Rd. Continue 0.6 miles.
+1. Turn right (North/West) on Rd 1 NW. Continue 3.8 miles.
+1. Turn right (North) on Rd U NW. Continue 1 mile.
+1. Turn left (West) on Rd 2 NW, then immediate right (North/East) on Rd U NW. Continue about 0.75 miles
 1. Watch for orienteering parking signs.
 
 

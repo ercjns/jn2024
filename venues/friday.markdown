@@ -26,6 +26,8 @@ Download a map of the area used at a previous event: {% include gdrive-link.html
 
 Coming soon
 
+Course stats are representative and will be updated when final.
+
 | Course | Distance | Climb | Controls |
 |--------|----------|-------|----------|
 | White  | 1.3 km   |  40m  |  9       |
@@ -48,6 +50,10 @@ Coming soon
 
 <div class="notification is-warning">
 A <strong>Discover Pass</strong> (Washington State Parks Pass) is required for parking. <strong><i>There is no way to purchase a pass on site</i></strong>! You can buy one ahead of time <a href="https://store.discoverpass.wa.gov/" target="_blank">online</a> or <a href="https://www.discoverpass.wa.gov/133/Where-to-Buy" target="_blank">in person</a> at some stores and parks.
+</div>
+
+<div class="notification is-warning">
+Due to high turnout, some competitors will be required to park a few miles away and take a shuttle to the event center. Details coming soon. Please leave yourself extra time to arrive for your start.
 </div>
 
 #### Address / Coordinates: 
