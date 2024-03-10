@@ -17,3 +17,7 @@ When code is merged to `liveprod` branch in this repository, a github actions ru
 
 The preview site is served at https://jn2024-test.cascadeoc.org
 When code is merged to `main` branch in this repository, a github actions runner builds and deploys to azure app `ambitious-grass-{redacted}`.
+
+### Development reminders
+
+Just run `jeykll serve` to launch the site during development.

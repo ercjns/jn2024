@@ -22,6 +22,15 @@
           link: /venues/sunday/
     - name: Results
       link: /results/
+      # items:
+      #   - name: Junior National Championships 2-day
+      #     link: /results/results-jn/
+      #   - name: Frenchman Coulee Middle NRE Results
+      #     link: /results/results-friday/
+      #   - name: Quincy Lakes South Classic NRE Results
+      #     link: /results/results-saturday/
+      #   - name: Bishop's Land Classic NRE Results
+      #     link: /results/results-sunday/
     - name: Travel
       link: /travel/
     - name: Registration
@@ -31,7 +40,7 @@
           link: /classes/
         - name: Shirts and Jerseys
           link: /shirts/
-        - name: Register on EventReg&nbsp;<span class="fa-solid fa-up-right-from-square"></span>
-          link: https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024
+        - name: View Registrations on EventReg&nbsp;<span class="fa-solid fa-up-right-from-square"></span>
+          link: https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024
     - name: Volunteer
       link: /volunteer/
