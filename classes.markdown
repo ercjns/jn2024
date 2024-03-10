@@ -20,15 +20,25 @@ Recreational courses are also be available on all three days. Pre-registration i
 
 ## Course / Class Mapping
 
-The table below follows the standard OUSA Course / Class mapping. Courses may be split into variants based on course load. If a split occurs, that information will be posted here, as well as with packets, and at the start.
+Brown and Green courses will be split into variants on Friday.
+
+Orange, Brown, and Green courses will be split into variants on Saturday and Sunday.
+
+The course / class mapping used for all days is below.
+You will also find your course assignment with your packet, on your bib, and at the start.
+You are responsible for picking up the map for your assigned course.
 
 | Course | Jr. Nationals Interscholastic Classes | Jr. Nationals Intercollegiate Classes | NRE Female Classes | NRE Male Classes | Non-Championship NRE Classes | Recreational Classes |
 |---|---|---|---|---|---|---|
 | White | ISPF, ISPM |  | F-10, F-12 | M-10, M-12 | MF-White | Rec White (Beginner) |
 | Yellow | ISIF, ISIM |  | F-14 | M-14 | F-Yellow, M-Yellow | Rec Yellow (Advanced Beginner) |
-| Orange | ISJVF, ISJVM | ICJVF, ICJVM | F-16 | M-16 | F-Orange, M-Orange | Rec Orange (Intermediate) |
-| Brown | ISVF |  | F-18, F55+, F60+, F65+, F70+, F75+, F80+, F85+, F90+ | M65+, M70+, M75+, M80+, M85+, M90+ | F-Brown, M-Brown | Rec Brown (Short Advanced) |
-| Green | ISVM | ICVF | F-20, F35+, F40+, F45+, F50+ | M-18, M50+, M55+, M60+ | F-Green, M-Green | Rec Green (Medium Advanced) |
+| Orange X | ISJVM | ICJVM |  | M-16 | M-Orange |  |
+| Orange Y | ISJVF | ICJVF | F-16 |  | F-Orange | Rec Orange (Intermediate) |
+| Brown X |  |  | F55+, F60+, F65+ | M65+, M70+, M75+ | F-Brown, M-Brown |  |
+| Brown Y |  |  | F70+, F75+, F80+, F85+, F90+ | M80+, M85+, M90+ |  | Rec Brown (Short Advanced) |
+| Brown Z | ISVF |  | F-18 |  |  |  |
+| Green X | ISVM |  |  | M-18, M50+, M55+, M60+ | M-Green |  |
+| Green Y |  | ICVF | F-20, F35+, F40+, F45+, F50+ |  | F-Green | Rec Green (Medium Advanced) |
 | Red |  | ICVM | F-21+ | M-20, M35+, M40+, M45+ | M-Red | Rec Red (Advanced) |
 | Blue |  |  |  | M-21+ |  | Rec Blue (Long Advanced) |
 
