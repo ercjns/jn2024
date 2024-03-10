@@ -28,6 +28,8 @@ Download a map of the area used at a previous event: {% include gdrive-link.html
 
 Coming soon
 
+Course stats are representative and will be updated when final.
+
 | Course | Distance | Climb | Controls |
 |--------|----------|-------|----------|
 | White  | 1.8 km   |  15m  | 10       |
