@@ -8,10 +8,15 @@ hide_hero: true
 
 The Columbia Gorge Classic 2024 is a three-day event. Competitive and non-competitive (recreational) classes are available on all days. 
 
-<div class="notification is-info is-light">
-There is <strong>no on-site registration</strong>, <i>including for recreational courses</i>. Everyone must pre-register on 
-<a href="https://eventreg.orienteeringusa.org/eventregister/register/start/jn2024" target="_blank" rel="noopener noreferrer">EventReg</a>.
+<div class="notification is-danger is-light">
+<strong>Registration is now closed.</strong> There is no on-site registration, including for recreational courses.
 </div>
+
+<div class="notification is-info is-light">
+<strong>We're still looking for a few volunteers.</strong> Can you spare a few hours to help us create a world class event? Check the <a href="/volunteer">volunteer info page</a> for details.
+</div>
+
+[See who is registered <span class="fa-solid fa-up-right-from-square"></span>](https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024){:target="_blank"}{:rel="noopener noreferrer"}.
 
 Friday is a stand-alone National Ranking Event (NRE).
 
@@ -19,20 +24,18 @@ Saturday and Sunday are also NREs, as well as the 2024 Orienteering USA Junior N
 
 Check the [Classes, Courses, and Eligibility](/classes/) page for more details. Generally, EventReg will point you towards the right class for you.
 
-[See who is registered <span class="fa-solid fa-up-right-from-square"></span>](https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024){:target="_blank"}{:rel="noopener noreferrer"}.
-
 ## Timelines
 
-<div class="notification is-warning">
+<!-- <div class="notification is-warning">
 <span class="fa-solid fa-triangle-exclamation"></span> The late registration cutoff has moved forward. <strong>The last day to register is now Saturday, March 9.</strong>
-</div>
+</div> -->
 
 | Cut-off                | Register Before         |
 |------------------------|-------------------------|
 | ~~Early Pricing~~          | ~~Monday January 29, 11:59pm Pacific~~ |
 | ~~Shirts / Jerseys~~       | ~~Sunday February 18, 11:59pm Pacific~~ |
 | ~~Regular Pricing, Meals~~ | ~~Monday March 4, 11:59pm Pacific~~ |
-| Late         | Saturday March 9, 11:59pm Pacific |
+| ~~Late~~         | ~~Saturday March 9, 11:59pm Pacific~~ |
 
 ## Pricing
 
@@ -40,10 +43,10 @@ Check the [Classes, Courses, and Eligibility](/classes/) page for more details. 
 
 |  Race Fees (~~Early~~ / Regular / Late)         |  Adult                |  Junior (20 and under)        |
 |---------------------------------------------|-----------------------|-----------------------|
-|  Columbia Gorge Three Race Package (Fri, Sat, Sun)     |  ~~$125~~ / ~~$150~~ / $200   |  ~~$65~~ / ~~$80~~ / $100     |
-|  Two Race Jr. Nationals Package (Sat, Sun)           |  ~~$100~~ / ~~$120~~ / $160   |  ~~$60~~ / ~~$70~~ / $80      |
-|  Single NRE, Each                  |  ~~$50~~ / ~~$60~~ / $80      |  ~~$30~~ / ~~$35~~ / $40      |
-|  Single Recreational Course, Each  |  $20      |  $20      |
+|  Columbia Gorge Three Race Package (Fri, Sat, Sun)     |  ~~$125~~ / ~~$150~~ / ~~$200~~   |  ~~$65~~ / ~~$80~~ / ~~$100~~     |
+|  Two Race Jr. Nationals Package (Sat, Sun)           |  ~~$100~~ / ~~$120~~ / ~~$160~~   |  ~~$60~~ / ~~$70~~ / ~~$80~~      |
+|  Single NRE, Each                  |  ~~$50~~ / ~~$60~~ / ~~$80~~      |  ~~$30~~ / ~~$35~~ / ~~$40~~      |
+|  Single Recreational Course, Each  |  ~~$20~~      |  ~~$20~~      |
 
 * E-Punch Rental: $5 per race
 * SIAC Air+ E-punch Rental: $7 per race
