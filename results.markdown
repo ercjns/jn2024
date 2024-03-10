@@ -6,10 +6,14 @@ hide_hero: true
 
 # Results
 
-Check back in March!
+![Finish and Download Tents](/assets/img/results.jpg)
 
-### Friday at Frenchman Coulee
+*Coming soon!*
 
-### Satuday at Quincy Lakes South
+[Friday Middle NRE at Frenchman Spring](/results/results-friday) - March 22, 2024
 
-### Sunday at Bishop's Land
+[Saturday Classic NRE at Quincy Lakes](/results/results-saturday) *Junior Nationals Day One* - March 23, 2024 
+
+[Sunday Classic NRE at Bishop's Land](/results/results-sunday) *Junior Nationals Day Two* - March 24, 2024
+
+[OUSA Junior National Championships](/results/results-jn) - Two day combined scores

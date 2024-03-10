@@ -3,7 +3,8 @@
 $primary: #6b9998;
 
 .navbar.is-primary .navbar-brand > .navbar-item {
-    color: rgb(53, 26, 40) !important;
+    color: rgb(240, 213, 185) !important;
+    text-shadow: 2px 2px 5px rgb(53, 26, 40) !important;
     font-weight: 800;
 }
 
@@ -28,3 +29,22 @@ $primary: #6b9998;
 .content a[href] {
     text-decoration: underline;
   }
+
+// Make some adjustments to the details element
+details > summary {
+    list-style: none;
+  }
+  
+details > summary::marker, /* Latest Chrome, Edge, Firefox */ 
+details > summary::-webkit-details-marker /* Safari */ {
+display: none;
+}
+
+details > .message-body {
+    border-radius: unset;
+    border-style: unset;
+}
+
+.message-header > p {
+    margin-bottom:0em;
+}
