@@ -44,7 +44,11 @@ All controls at this event will be in "beacon" mode, so touch-free punching usin
 
 ## Site Map
 
-Coming soon
+Click on the image for a larger version, or click the link to download a pdf version ready to print.
+
+{% include gdrive-link.html TEXT="Frenchman - Site Map - Letter" FILEID="1Lzl1uyiLOFVCW5VqebB7CnvUvY-5sJdO" %}
+
+<a href="/assets/img/0Frenchman-sitemap-large.png" rel="noopener noreferrer"><img src="/assets/img/0Frenchman-sitemap-tiny.png" max-width="100%"></a>
 
 ## Getting There
 
@@ -52,26 +56,41 @@ Coming soon
 A <strong>Discover Pass</strong> (Washington State Parks Pass) is required for parking. <strong><i>There is no way to purchase a pass on site</i></strong>! You can buy one ahead of time <a href="https://store.discoverpass.wa.gov/" target="_blank">online</a> or <a href="https://www.discoverpass.wa.gov/133/Where-to-Buy" target="_blank">in person</a> at some stores and parks.
 </div>
 
-<div class="notification is-warning">
-Due to high turnout, some competitors will be required to park a few miles away and take a shuttle to the event center. Details coming soon. Please leave yourself extra time to arrive for your start.
-</div>
 
 #### Address / Coordinates: 
+
+##### Event Center
+
 Vantage Rd SW, 2.2 miles West of I-90. (47.02569, -119.96677)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.1312337706636!2d-119.96834784804614!3d47.02532553031234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54999e8166f7f641%3A0x729e63b161bd8be9!2sParking%20lot%2C%20Washington%2098848!5e0!3m2!1sen!2sus!4v1703304036551!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<div class="notification is-warning">
+Most competitors will be required to <strong>take a shuttle to the event center</strong> from about 3 miles away. Please leave yourself extra time to arrive for your start!
+</div>
+
+##### Shuttle Parking
+
+End of Vantage Rd SW at Columbia River boat ramp. (47.0000,-119.9900)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2721.0495514530744!2d-119.99!3d47!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDfCsDAwJzAwLjAiTiAxMTnCsDU5JzI0LjAiVw!5e0!3m2!1sen!2sus!4v1710472105951!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 #### From I-90 Eastbound (From Vantage/Seattle):
 1. Take Exit 143, East Silica Rd SW
 1. Turn left (North) on East Silica Rd SW. Continue 0.8 miles.
 1. Turn left (West) on Vantage Rd SW. Continue about 1.5 miles.
-1. Watch for orienteering parking signs
+1. Watch for orienteering parking signs. This is the event center. Limited parking. 
+1. Continue 3 miles to the end of the road.
+1. Park in the gravel lot. Take the shuttle to the event center.
 
 #### From I-90 Westbound (From Quincy/Spokane):
 1. Take Exit 143, East Silica Rd SW
 1. Turn right (North) on East Silica Rd SW. Continue 0.8 miles.
 1. Turn left (West) on Vantage Rd SW. Continue about 1.5 miles.
-1. Watch for orienteering parking signs
+1. Watch for orienteering parking signs. This is the event center. Limited parking. 
+1. Continue 3 miles to the end of the road.
+1. Park in the gravel lot. Take the shuttle to the event center.
 
 
 

@@ -10,6 +10,10 @@ Welcome to beautiful Central Washington!
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1frhupq580faMZKx-X8HlomS1tk0SBF0&ehbc=2E312F&noprof=1" width="100%" height="480"></iframe>
 
+<p></p>
+
+You can also download a print version: {% include gdrive-link.html TEXT="Area Map - Letter" FILEID="1DVxHszRWHwSJJQ-zIxXfo6fbZfw1ST8P" %}
+
 ### Race Venues
 Visit the event pages for specific driving directions
 
