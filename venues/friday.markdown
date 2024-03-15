@@ -56,6 +56,17 @@ Click on the image for a larger version, or click the link to download a pdf ver
 A <strong>Discover Pass</strong> (Washington State Parks Pass) is required for parking. <strong><i>There is no way to purchase a pass on site</i></strong>! You can buy one ahead of time <a href="https://store.discoverpass.wa.gov/" target="_blank">online</a> or <a href="https://www.discoverpass.wa.gov/133/Where-to-Buy" target="_blank">in person</a> at some stores and parks.
 </div>
 
+<div class="notification is-warning">
+Most competitors will be required to <strong>take a shuttle to the event center</strong> from about 3 miles away. Please leave yourself extra time to arrive for your start!
+</div>
+
+<div class="notification is-danger is-light">
+Traveling from the Seattle area? Rehabilitation work has started on the I-90 Columbia River bridge at Vantage. On weekdays, only one lane in each direction will be open. <strong>Expect delays</strong> up to an hour! Check the <a href="https://wsdot.com/Travel/Real-time/Map/?layers=traffic-flow%2Calert&base=wsdot&extent=-120.51244638498257%2C46.619869989664004%2C-119.53191659982761%2C47.34826361894058&fromLink=true" target="_blank">WSDOT Travel Center Map</a> for real time info.
+
+<br/><br/>This lane reduction is weekdays only in March. More details at <a href="https://wsdot.wa.gov/about/news/2024/work-replace-i-90-vantage-bridge-deck-set-get-underway" target="_blank">WSDOT</a>.
+</div>
+
+
 
 #### Address / Coordinates: 
 
@@ -65,9 +76,7 @@ Vantage Rd SW, 2.2 miles West of I-90. (47.02569, -119.96677)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3329.1312337706636!2d-119.96834784804614!3d47.02532553031234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54999e8166f7f641%3A0x729e63b161bd8be9!2sParking%20lot%2C%20Washington%2098848!5e0!3m2!1sen!2sus!4v1703304036551!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<div class="notification is-warning">
-Most competitors will be required to <strong>take a shuttle to the event center</strong> from about 3 miles away. Please leave yourself extra time to arrive for your start!
-</div>
+
 
 ##### Shuttle Parking
 
