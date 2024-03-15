@@ -46,7 +46,11 @@ All controls at this event will be in "beacon" mode, so touch-free punching usin
 
 ## Site Map
 
-Coming soon
+Click on the image for a larger version, or click the link to download a pdf version ready to print.
+
+{% include gdrive-link.html TEXT="Bishops Land - Site Map - Letter" FILEID="1P9m8Kasy8OuzUtmYDSo_d6uxo795ZKd1" %}
+
+<a href="/assets/img/2Bishops-sitemap-large.png" rel="noopener noreferrer"><img src="/assets/img/2Bishops-sitemap-tiny.png" max-width="100%"></a>
 
 ## Getting There
 

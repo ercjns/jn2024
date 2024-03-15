@@ -14,19 +14,27 @@ breadcrumbs:
 
 The model course will be open 10:00am-4:00pm on Friday and 7:00am-3:00pm on Saturday. See the full [schedule](/schedule).
 
-## Map Information
+## Map & Course Information
 
-Coming soon.
+The Frenchman Spring map is located North of Vantage Rd. Use this area to familiarize yourself with the terrain and features you'll see at all the venues this weekend. The relatively flat area with small cliffs, rocky features and various densities of sagebrush is very similar to the terrain at all three competition venues.
 
-## Course Notes
+<div class="notification is-info is-light">
+<strong>Please print your own map if possible</strong>. A limited number of maps will be available on site in a bin by the gate.
+</div>
 
-Coming soon.
+The model map is available in both 1:10,000 and 1:7,500 scale on the same Letter size page.
+
+{% include gdrive-link.html TEXT="Model Map - Frenchman Spring" FILEID="1E1tBss9yIohH7Uo1_Vz6-NVbgU8BI3n-" %}
 
 ## Getting There
 
 <div class="notification is-warning">
 A <strong>Discover Pass</strong> (Washington State Parks Pass) is required for parking. <strong><i>There is no way to purchase a pass on site</i></strong>! You can buy one ahead of time <a href="https://store.discoverpass.wa.gov/" target="_blank">online</a> or <a href="https://www.discoverpass.wa.gov/133/Where-to-Buy" target="_blank">in person</a> at some stores and parks.
 </div>
+
+Parking is on the side of Vantage Rd - please pull off as far as possible and park close together. There is a small gravel lot (~3 cars) and a gate located at the pin. This is the location marked as finish on the map.
+
+Only park on the road near here if you are on the model map. Do not park at this location for the Friday event. The shuttle will NOT pick up or drop off at this location.
 
 #### Address / Coordinates: 
 Vantage Rd SW, 3.5 miles West of I-90. (47.023678,-119.996137)
