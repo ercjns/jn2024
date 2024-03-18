@@ -18,9 +18,11 @@ breadcrumbs:
 
 **11:00am - 2:00pm** Packet Pickup Available at the Event Center
 
-**12:00pm - 2:30pm** Starts Open. Start times will be published on EventReg soon.
+**12:00pm - 2:30pm** Starts Open. See your start time on [EventReg <span class="fa-solid fa-up-right-from-square"></span>](https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024){:target="_blank"}{:rel="noopener noreferrer"}
 
 **4:30pm** Courses Close (2hr time limit)
+
+[Full schedule](/schedule)
 
 ## Map Information
 

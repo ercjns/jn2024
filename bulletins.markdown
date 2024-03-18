@@ -8,6 +8,11 @@ hide_hero: true
 
 We'll post important notices here as necessary. Check out the [Schedule](/schedule), review [Registration](/registration) and [Venue](/venues) information, plan your [Travel](/travel), and get excited! We're looking forward to hosting you!
 
+## March 17, 2024
+Start times are now available on [EventReg <span class="fa-solid fa-up-right-from-square"></span>](https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024){:target="_blank"}{:rel="noopener noreferrer"}
+
+Course statistics are published on event pages, including class assignments for course variants.
+
 ## March 4, 2024
 We're excited to see over 400 of you join us in just a few weeks! As we're nearing capacity, the late registration cutoff has moved forward. **The last day to register is now Saturday, March 9.**
 
