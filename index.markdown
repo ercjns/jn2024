@@ -10,8 +10,8 @@ title: Columbia Gorge Classic
 subtitle: 2024 OUSA Junior National Championships <br> Quincy, Washington | March 22-24, 2024
 ---
 
-<div class="notification is-info is-light">
-<i class="fa-solid fa-circle-info"></i> Registration is now closed.
+<div class="notification is-primary is-light">
+Start times are now available on <a href="https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024" target="_blank" rel="noopener noreferrer">EventReg <span class="fa-solid fa-up-right-from-square"></span></a>
 </div>
 
 # Welcome

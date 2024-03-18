@@ -12,9 +12,21 @@ breadcrumbs:
 
 ![Quincy Lakes](/assets/img/QuincyLakes300.jpg)
 
-## Junior Nationals Day 1
+## Junior Nationals Day 1 - March 23, 2024
 
-See the [schedule](/schedule) for start windows and course closure. EVERYONE has an assigned start time. Start times will be published on EventReg in March.
+**7:00am - 3:00pm** [Frenchman Spring](/venues/model) model course open
+
+**8:30am - 11:30am** Packet pickup available at the Event Center
+
+**9:30am - 12:00pm**  Starts open. See your start time on [EventReg <span class="fa-solid fa-up-right-from-square"></span>](https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024){:target="_blank"}{:rel="noopener noreferrer"}
+
+**3:00pm** Courses Close (3hr time limit)
+
+**4:00pm - 5:30pm** [Junior Social](/social-events) at Quincy Business & Event Center
+
+**6:00pm - 8:00pm** [Welcome Dinner](/social-events) and Friday Awards at Quincy Business & Event Center
+
+[Full schedule](/schedule)
 
 ## Map Information
 
@@ -24,22 +36,33 @@ Download a map of the area used at a previous event: {% include gdrive-link.html
 
 *Reminder that the map shows embargoed areas, and that possession of the map does not imply permission to enter.*
 
+* There are numerous and random animal trails. These are characterized by indistinct paths amongst the sagebrush that appear and disappear and are often difficult to identify from the runners eye level, but will occasionally be noticed. These trails were omitted from the map, unless they were observed to be very distinct and followable.
+
+* The bare rock symbol and the stony ground symbol are used to describe similar features: high rocky ground, free of vegetation. At Quincy Lakes, these areas are typically drawn as stony ground.
+
+* Stony ground and hills together indicate a volcanic rock-like structure. Similar areas, perhaps with more rock, are depicted with the bare rock symbol.
+
 ## Course Notes
 
-Coming soon
+**Course Designer:** Will Enger
 
-Course stats are representative and will be updated when final.
+*Course Notes coming soon.*
 
-| Course | Distance | Climb | Controls |
-|--------|----------|-------|----------|
-| White  | 1.7 km   |  55m  | 12       |
-| Yellow | 2.9 km   |  75m  | 14       |
-| Orange | 4.2 km   | 100m  | 16       |
-| Brown  | 4.3 km   | 100m  | 15       |
-| Green  | 5.9 km   | 150m  | 17       |
-| Red    | 8.2 km   | 195m  | 19       |
-| Blue   | 10.8 km  | 230m  | 21       |
+#### Course Statistics 
 
+| Course   | Classes                                                          | Distance |  Climb | Controls | Scale    |
+|----------|------------------------------------------------------------------|----------|--------|----------|----------|
+| White    | ISPF, ISPM \| F-10, F-12 \| M-10, M-12 \| M/F-White \| Rec White | 1.8 km   |  45 m  | 11       | 1:7,500  |
+| Yellow   | ISIF, ISIM \| F-14 \| M-14 \| F-Yellow, M-Yellow \| Rec Yellow   | 2.9 km   |  65 m  | 13       | 1:7,500  |
+| Orange X | ISJVM, ICJVM \| M-16 \| M-Orange \|                              | 4.2 km   | 110 m  | 13       | 1:10,000 |
+| Orange Y | ISJVF, ICJVF \| F-16 \| F-Orange \| Rec Orange                   | 3.9 km   | 105 m  | 12       | 1:10,000 |
+| Brown X  | F55+, F60+, F65+ \| M65+, M70+, M75+ \| F-Brown, M-Brown         | 4.1 km   | 125 m  | 12       | 1:7,500  |
+| Brown Y  | F70+, F75+, F80+, F85+, F90+ \| M80+, M85+, M90+ \| Rec Brown    | 3.6 km   | 115 m  | 11       | 1:7,500  |
+| Brown Z  | ISVF \| F-18                                                     | 4.1 km   | 125 m  | 12       | 1:10,000 |
+| Green X  | ISVM \| M-18, M50+, M55+, M60+ \| M-Green                        | 5.9 km   | 155 m  | 17       | 1:10,000 |
+| Green Y  | ICVF \| F-20, F35+, F40+, F45+, F50+ \| F-Green \| Rec Green     | 5.4 km   | 145 m  | 14       | 1:10,000 |
+| Red      | ICVM \| F-21+ \| M-20, M35+, M40+, M45+ \| M-Red \| Rec Red      | 8.4 km   | 195 m  | 19       | 1:10,000 |
+| Blue     | M-21+ \| Rec Blue                                                | 10.9 km  | 230 m  | 20       | 1:10,000 |
 
 <div class="notification is-info is-light">
 All controls at this event will be in "beacon" mode, so touch-free punching using SIACs (SI Air+ Cards) will be enabled. SIAC rentals are available. Standard SportIdent E-punches work like normal.
@@ -55,16 +78,19 @@ Click on the image for a larger version, or click the link to download a pdf ver
 
 ## Getting There
 
-<div class="notification is-warning">
-A <strong>Discover Pass</strong> (Washington State Parks Pass) is required for parking. <strong><i>There is no way to purchase a pass on site</i></strong>! You can buy one ahead of time <a href="https://store.discoverpass.wa.gov/" target="_blank">online</a> or <a href="https://www.discoverpass.wa.gov/133/Where-to-Buy" target="_blank">in person</a> at some stores and parks.
-</div>
-
-There is a locked gate just north of the event center. **The primary parking area will be to the south of the gate.** Approach from the south <a href="#address--coordinates">using the directions below</a>.
+<div class="notification is-info is-light">
 
 COC folks: This event is NOT using the normal parking location for this venue!
+</div>
+
+**Approach from the south** <a href="#address--coordinates">using the directions below</a>. There is a locked gate just north of the event center, between registration and the finish. The primary parking area is south of the gate.
+
+Parking for this event is on private land in a field we've been given permission to use. A waiver will be required to be signed on site. Parking in the field does not require a Discover Pass. Parking on State DFW owned land does require a Discover Pass.
+
+There is a 700m walk along the road from the parking area to the event center.
 
 <div class="notification is-info is-light">
-<strong>Volunteers only</strong> should approach the venue from the north, following <a href="https://cascadeoc.org/map/quincy-lakes-south/" target="_blank">Cascade's standard directions</a> and park in the small lots along Rd T anywhere at or south of the lake.
+<strong>Volunteers only</strong> should approach the venue from the north, following <a href="https://cascadeoc.org/map/quincy-lakes-south/" target="_blank">Cascade's standard directions</a> and park in the small lots along Rd T anywhere at or south of the lake. A <strong> Discover pass is required</strong> for volunteer parking.
 </div>
 
 #### Address / Coordinates: 
