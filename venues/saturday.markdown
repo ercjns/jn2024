@@ -18,9 +18,9 @@ breadcrumbs:
 
 **8:30am - 11:30am** Packet pickup available at the Event Center
 
-**9:30am - 12:00pm**  Starts open. See your start time on [EventReg <span class="fa-solid fa-up-right-from-square"></span>](https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024){:target="_blank"}{:rel="noopener noreferrer"}
+**9:30am - 12:15pm**  Starts open. See your start time on [EventReg <span class="fa-solid fa-up-right-from-square"></span>](https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024){:target="_blank"}{:rel="noopener noreferrer"}
 
-**3:00pm** Courses Close (3hr time limit)
+**3:15pm** Courses Close (3hr time limit)
 
 **4:00pm - 5:30pm** [Junior Social](/social-events) at Quincy Business & Event Center
 
@@ -72,9 +72,9 @@ All controls at this event will be in "beacon" mode, so touch-free punching usin
 
 Click on the image for a larger version, or click the link to download a pdf version ready to print.
 
-{% include gdrive-link.html TEXT="Quincy Lakes - Site Map - Letter" FILEID="1UFkdutY-A8F6nIP9gGBjRQ_dSxWMgjnP" %}
+{% include gdrive-link.html TEXT="Quincy Lakes - Site Map - Letter" FILEID="1JNRvl0y7yTO1QfYKMqFJl_cXhyd15_F_" %}
 
-<a href="/assets/img/1QuincyLakes-sitemap-large.png" rel="noopener noreferrer"><img src="/assets/img/1QuincyLakes-sitemap-tiny.png" max-width="100%"></a>
+<a href="/assets/img/2QuincyLakes-sitemap-large-v2.png" rel="noopener noreferrer"><img src="/assets/img/2QuincyLakes-sitemap-tiny-v2.png" max-width="100%"></a>
 
 ## Getting There
 

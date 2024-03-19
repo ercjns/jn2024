@@ -11,7 +11,7 @@ subtitle: 2024 OUSA Junior National Championships <br> Quincy, Washington | Marc
 ---
 
 <div class="notification is-primary is-light">
-Start times are now available on <a href="https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024" target="_blank" rel="noopener noreferrer">EventReg <span class="fa-solid fa-up-right-from-square"></span></a>
+<span class="fa-solid fa-thumbtack"></span> <a href="https://drive.google.com/uc?export=download&id=1IzZ6-BLv10Aabw23OsgD6h7U33uVyuyc" rel="noopener noreferrer"> Bulletin #1 (pdf)</a> 
 </div>
 
 # Welcome

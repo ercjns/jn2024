@@ -81,9 +81,9 @@ All controls at this event will be in "beacon" mode, so touch-free punching usin
 
 Click on the image for a larger version, or click the link to download a pdf version ready to print.
 
-{% include gdrive-link.html TEXT="Frenchman - Site Map - Letter" FILEID="1Lzl1uyiLOFVCW5VqebB7CnvUvY-5sJdO" %}
+{% include gdrive-link.html TEXT="Frenchman - Site Map - Letter" FILEID="1CcO3-SKEUd3S2XVczBcRzUsNxmIS7O5c" %}
 
-<a href="/assets/img/0Frenchman-sitemap-large.png" rel="noopener noreferrer"><img src="/assets/img/0Frenchman-sitemap-tiny.png" max-width="100%"></a>
+<a href="/assets/img/1Frenchman-sitemap-large-v2.png" rel="noopener noreferrer"><img src="/assets/img/1Frenchman-sitemap-tiny-v2.png" max-width="100%"></a>
 
 ## Getting There
 
