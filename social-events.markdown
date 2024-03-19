@@ -35,9 +35,9 @@ Come join your fellow orienteers for an evening of fellowship and good food. Tra
 
 ## Awards 
 
-Sunday 2:30pm - 3:30pm at the Quincy Business & Event Center
+Sunday 2:45pm - 3:45pm at the Quincy Business & Event Center
 
-The Junior National Championship awards ceremony will be held at the Quincy Business & Event Center. Come inside, get warm and celebrate the wins of your teammates, school, and club! The event is expected to begin at 2:30pm and wrap up by 3:30pm. If we can start earlier, we will. Awards will be handed out for Intercollegiate, Interscholastic, and standard NRE categories.
+The Junior National Championship awards ceremony will be held at the Quincy Business & Event Center. Come inside, get warm and celebrate the wins of your teammates, school, and club! The event is expected to begin at 2:45pm and wrap up by 3:45pm. If we can start earlier, we will. Awards will be handed out for Intercollegiate, Interscholastic, and standard NRE categories.
 
 ## Location - Quincy Business & Event Center
 

@@ -16,11 +16,11 @@ breadcrumbs:
 
 **8:30am - 9:30am** Packet pickup available at the Event Center
 
-**9:00am - 11:30am**  Starts open. See your start time on [EventReg <span class="fa-solid fa-up-right-from-square"></span>](https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024){:target="_blank"}{:rel="noopener noreferrer"}
+**9:00am - 11:45am**  Starts open. See your start time on [EventReg <span class="fa-solid fa-up-right-from-square"></span>](https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024){:target="_blank"}{:rel="noopener noreferrer"}
 
-**2:30pm** Courses Close (3hr time limit)
+**2:45pm** Courses Close (3hr time limit)
 
-**2:30pm\*** [Closing Ceremony and Awards](/social-events) (Sat/Sun races) at Quincy Business & Event Center
+**2:45pm\*** [Closing Ceremony and Awards](/social-events) (Sat/Sun races) at Quincy Business & Event Center
 
 [Full schedule](/schedule)
 
@@ -70,9 +70,9 @@ All controls at this event will be in "beacon" mode, so touch-free punching usin
 
 Click on the image for a larger version, or click the link to download a pdf version ready to print.
 
-{% include gdrive-link.html TEXT="Bishops Land - Site Map - Letter" FILEID="1P9m8Kasy8OuzUtmYDSo_d6uxo795ZKd1" %}
+{% include gdrive-link.html TEXT="Bishops Land - Site Map - Letter" FILEID="11nijZuq917aGXKON5bzSczuZI4FAz8z-" %}
 
-<a href="/assets/img/2Bishops-sitemap-large.png" rel="noopener noreferrer"><img src="/assets/img/2Bishops-sitemap-tiny.png" max-width="100%"></a>
+<a href="/assets/img/3Bishops-sitemap-large-v2.png" rel="noopener noreferrer"><img src="/assets/img/3Bishops-sitemap-tiny-v2.png" max-width="100%"></a>
 
 ## Getting There
 

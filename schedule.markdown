@@ -22,9 +22,9 @@ hide_hero: true
 
 **8:30am - 11:30am** Packet pickup available at [Quincy Lakes](/venues/saturday) start location
 
-**9:30am - 12:00pm**  Starts open, [Quincy Lakes](/venues/saturday) classic NRE and Junior Nationals Day 1
+**9:30am - 12:15pm**  Starts open, [Quincy Lakes](/venues/saturday) classic NRE and Junior Nationals Day 1
 
-**3:00pm** Courses Close
+**3:15pm** Courses Close
 
 **4:00pm - 5:30pm** [Junior Social](/social-events) at Quincy Business & Event Center
 
@@ -34,8 +34,8 @@ hide_hero: true
 
 **8:30am - 9:30am** Packet pickup available at [Bishop’s Land](/venues/sunday) start location
 
-**9:00am - 11:30am**  Starts open, [Bishop’s Land](/venues/sunday) classic NRE and Junior Nationals Day 2
+**9:00am - 11:45am**  Starts open, [Bishop’s Land](/venues/sunday) classic NRE and Junior Nationals Day 2
 
-**2:30pm** Courses Close
+**2:45pm** Courses Close
 
-**2:30pm\*** [Closing Ceremony and Awards](/social-events) (Sat/Sun races) at Quincy Business & Event Center
+**2:45pm\*** [Closing Ceremony and Awards](/social-events) (Sat/Sun races) at Quincy Business & Event Center
