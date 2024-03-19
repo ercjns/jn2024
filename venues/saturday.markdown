@@ -18,7 +18,7 @@ breadcrumbs:
 
 **8:30am - 11:30am** Packet pickup available at the Event Center
 
-**9:30am - 12:15pm**  Starts open. See your start time on [EventReg <span class="fa-solid fa-up-right-from-square"></span>](https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024){:target="_blank"}{:rel="noopener noreferrer"}
+**9:30am - 12:15pm**  Starts Open. You must be in the start area ready to race <strong>8 minutes</strong> before your start time. See your start time on [EventReg <span class="fa-solid fa-up-right-from-square"></span>](https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024){:target="_blank"}{:rel="noopener noreferrer"}
 
 **3:15pm** Courses Close (3hr time limit)
 
@@ -47,6 +47,10 @@ Download a map of the area used at a previous event: {% include gdrive-link.html
 **Course Designer:** Will Enger
 
 *Course Notes coming soon.*
+
+<div class="notification is-info is-light">
+Your name will be called <strong>8 minutes before</strong> your start time. Please familiarize yourself with the <a href="https://drive.google.com/uc?export=download&id=18FK2BXXF5x4TsVo8hr9_fo_2au_V-1dK" rel="noopener noreferrer"><strong>start procedures (pdf)</strong></a>. Plan ahead and leave extra time to not miss your start!
+</div>
 
 #### Course Statistics 
 
