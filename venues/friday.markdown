@@ -18,7 +18,7 @@ breadcrumbs:
 
 **11:00am - 2:00pm** Packet Pickup Available at the Event Center
 
-**12:00pm - 2:30pm** Starts Open. See your start time on [EventReg <span class="fa-solid fa-up-right-from-square"></span>](https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024){:target="_blank"}{:rel="noopener noreferrer"}
+**12:00pm - 2:30pm** Starts Open. You must be in the start area ready to race <strong>8 minutes</strong> before your start time. See your start time on [EventReg <span class="fa-solid fa-up-right-from-square"></span>](https://eventreg.orienteeringusa.org/eventregister/reglist/home/jn2024){:target="_blank"}{:rel="noopener noreferrer"}
 
 **4:30pm** Courses Close (2hr time limit)
 
@@ -57,6 +57,9 @@ The Frenchman Coulee area is an open semi-desert landscape comprised of variable
 * **White and Yellow Course Flagging** – Due to the trail visibility issues mentioned above, there are pin flags on the White and Yellow courses where the existing trails are faint.  Flagged routes are not marked on the map but provided on the course to better highlight the trail locations.  Follow these marked routes as you would a trail.
 * **Advanced Courses** – The advanced courses will be fast and full of complex navigational challenges.  Expect to navigate feature dense areas as well as the subtle terrain of the barren steppe.  Planning your route ahead of time to avoid significant uncrossable features will be critical to a clean run. 
 
+<div class="notification is-info is-light">
+Your name will be called <strong>8 minutes before</strong> your start time. Please familiarize yourself with the <a href="https://drive.google.com/uc?export=download&id=18FK2BXXF5x4TsVo8hr9_fo_2au_V-1dK" rel="noopener noreferrer"><strong>start procedures (pdf)</strong></a>. Plan ahead and leave extra time to not miss your start!
+</div>
 
 #### Course Statistics 
 
