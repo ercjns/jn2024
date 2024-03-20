@@ -46,6 +46,8 @@ Download a map of the area used at a previous event: {% include gdrive-link.html
 
 **Course Designer:** Will Enger
 
+**Safety Bearing:** South to the vineyard fields.
+
 As you will have no doubt discovered at Frenchman Coulee on Friday, rock features of all kinds are the predominant theme of these areas. At South Quincy Lakes, rock comes in all shapes and sizes, and is mapped accordingly as cliffs, boulders, knolls, rocky ground, and bare rock - and of course there's also unmapped rock which is too small or short to make it onto the map. Inevitably not every rock formation fits neatly into one of these categories, so some rocky ground may arguably look like a small cliff, some boulders may also seem like rocky knolls, and so on. Long story short, the main takeaway is that identifying the largest and most prominent rock features along your route and maintaining a wide field of view in this very open and visible landscape will keep you in good stead.
 
 All courses except White will need to cross a fairly steep brushy reentrant shortly out of the start to get to the main part of the mapped area. Two passable crossing points have been marked on the map with the Crossing Point symbol - these have been found to be by far the easiest ways down into and back up out of the reentrant, and it is advisable (but not mandatory) to use them. All courses will come back across that reentrant toward the finish in a different area where a trail exists and the crossing is straightforward.
