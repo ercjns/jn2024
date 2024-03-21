@@ -14,7 +14,7 @@ breadcrumbs:
 
 ### March 22, 2024
 
-**10:00am - 4:00pm** [Frenchman Spring](/venues/model) Model Course Open
+**8:00am - 4:00pm** [Frenchman Spring](/venues/model) Model Course Open
 
 **11:00am - 2:00pm** Packet Pickup Available at the Event Center
 
