@@ -88,6 +88,10 @@ Click on the image for a larger version, or click the link to download a pdf ver
 
 <a href="/assets/img/1Frenchman-sitemap-large-v2.png" rel="noopener noreferrer"><img src="/assets/img/1Frenchman-sitemap-tiny-v2.png" max-width="100%"></a>
 
+<!-- <div class="notification is-info is-light">
+During the event, you can <a href="https://losttimeorienteering.nfshost.com/"><strong>view live results here</a>.
+</div> -->
+
 ## Getting There
 
 <div class="notification is-warning">
