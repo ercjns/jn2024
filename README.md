@@ -21,3 +21,5 @@ When code is merged to `main` branch in this repository, a github actions runner
 ### Development reminders
 
 Just run `jeykll serve` to launch the site during development.
+
+Might need to run `bundle exec jekyll serve` when running in windows rather than WSL/linux.
