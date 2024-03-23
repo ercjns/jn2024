@@ -16,7 +16,9 @@ breadcrumbs:
 
 For questions or changes, contact <a href="mailto:epunch@cascadeoc.org">epunch@cascadeoc.org</a>.
 
-*Coming soon!*
+<div class="notification is-info is-light">
+During the event, you can <a href="https://losttimeorienteering.nfshost.com/"><strong>view live results here</strong></a>.
+</div>
 
 <!-- 
 <div class="block">
@@ -49,14 +51,18 @@ For questions or changes, contact <a href="mailto:epunch@cascadeoc.org">epunch@c
 </details>
 </div>
 
+-->
+
 ## Results Analysis Tools
 
 <div class="block">
 <div class="card">
   <footer class="card-footer">
-    <a href="" class="card-footer-item" target="_blank">Livelox&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a>
-    <a href="" class="card-footer-item" target="_blank">Winsplits&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a>
-    <a href="" class="card-footer-item" target="_blank">Attackpoint&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a>
+    <a href="https://www.livelox.com/Events/Show/123730" class="card-footer-item" target="_blank">Livelox&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a>
+    <span class="card-footer-item">Winsplits</span>
+    <!-- <a href="" class="card-footer-item" target="_blank">Winsplits&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a> -->
+    <span class="card-footer-item">Attackpoint</span>
+    <!-- <a href="" class="card-footer-item" target="_blank">Attackpoint&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a> -->
   </footer>
 </div>
-</div>  -->
+</div> 
