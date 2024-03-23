@@ -12,6 +12,10 @@ breadcrumbs:
 
 ![Frenchman Coulee](/assets/img/FrenchmanCoulee300.jpg)
 
+<div class="notification is-primary is-light">
+<span class="fa-solid fa-flag-checkered"></span> <a href="/results/results-friday"> Results for this event</a> 
+</div>
+
 ### March 22, 2024
 
 **8:00am - 4:00pm** [Frenchman Spring](/venues/model) Model Course Open
@@ -87,10 +91,6 @@ Click on the image for a larger version, or click the link to download a pdf ver
 {% include gdrive-link.html TEXT="Frenchman - Site Map - Letter" FILEID="1CcO3-SKEUd3S2XVczBcRzUsNxmIS7O5c" %}
 
 <a href="/assets/img/1Frenchman-sitemap-large-v2.png" rel="noopener noreferrer"><img src="/assets/img/1Frenchman-sitemap-tiny-v2.png" max-width="100%"></a>
-
-<!-- <div class="notification is-info is-light">
-During the event, you can <a href="https://losttimeorienteering.nfshost.com/"><strong>view live results here</a>.
-</div> -->
 
 ## Getting There
 
