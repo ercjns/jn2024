@@ -53,10 +53,8 @@ For questions or changes, contact <a href="mailto:epunch@cascadeoc.org">epunch@c
 <div class="card">
   <footer class="card-footer">
     <a href="https://www.livelox.com/Events/Show/123605" class="card-footer-item" target="_blank">Livelox&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a>
-    <span class="card-footer-item">Winsplits</span>
-    <!-- <a href="" class="card-footer-item" target="_blank">Winsplits&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a> -->
-    <span class="card-footer-item">Attackpoint</span>
-    <!-- <a href="" class="card-footer-item" target="_blank">Attackpoint&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a> -->
+    <a href="http://obasen.orientering.se/winsplits/online/en/default.asp?page=classes&databaseId=95882" class="card-footer-item" target="_blank">Winsplits&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a>
+    <a href="https://www.attackpoint.org/eventdetail.jsp/event_56734" class="card-footer-item" target="_blank">Attackpoint&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a>
     <!-- <span class="card-footer-item">RouteGadget</span> -->
   </footer>
 </div>
