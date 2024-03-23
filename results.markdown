@@ -8,7 +8,9 @@ hide_hero: true
 
 ![Finish and Download Tents](/assets/img/results.jpg)
 
-*Coming soon!*
+<div class="notification is-info is-light">
+During the event, you can <a href="https://losttimeorienteering.nfshost.com/"><strong>view live results here</strong></a>.
+</div>
 
 [Friday Middle NRE at Frenchman Spring](/results/results-friday) - March 22, 2024
 
