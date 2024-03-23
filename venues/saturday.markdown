@@ -28,6 +28,10 @@ breadcrumbs:
 
 [Full schedule](/schedule)
 
+<div class="notification is-info is-light">
+During the event, you can <a href="https://losttimeorienteering.nfshost.com/"><strong>view live results here</strong></a>.
+</div>
+
 ## Map Information
 
 Quincy Lakes is a cross between a series of interconnected water features and a seemingly endless glacially created scab lands. The east portion of the map is inundated with a maze of coulees while the south portion of the map is a relatively flat sage covered plain. The map combines technical and fast paced map reading while traveling from west from the start. Once through the well developed channels and pools runners will encounter terrain where features are subtle and far apart. Runners will need to use compass and a pace count to execute a tight race. While there are fewer trails on this map, younger runners will be able to follow the base of cliffs and run along water features when moving between trails. In addition to the abundant linear features that are numerous subtle point features in the form of depressions.
