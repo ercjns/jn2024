@@ -73,10 +73,10 @@ A number of coats and other items were left at coat drop! Please claim your gear
 <div class="card">
   <footer class="card-footer">
     <a href="https://www.livelox.com/Events/Show/123729" class="card-footer-item" target="_blank">Livelox&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a>
-    <span class="card-footer-item">Winsplits</span>
-    <!-- <a href="" class="card-footer-item" target="_blank">Winsplits&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a> -->
-    <span class="card-footer-item">Attackpoint</span>
-    <!-- <a href="" class="card-footer-item" target="_blank">Attackpoint&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a> -->
+    <!-- <span class="card-footer-item">Winsplits</span> -->
+    <a href="http://obasen.orientering.se/winsplits/online/en/default.asp?page=classes&databaseId=95918" class="card-footer-item" target="_blank">Winsplits&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a>
+    <!-- <span class="card-footer-item">Attackpoint</span> -->
+    <a href="https://www.attackpoint.org/eventdetail.jsp/event_56734" class="card-footer-item" target="_blank">Attackpoint&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a>
   </footer>
 </div>
 </div>
