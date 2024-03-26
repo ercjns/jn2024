@@ -16,11 +16,11 @@ breadcrumbs:
 
 For questions or changes, contact <a href="mailto:epunch@cascadeoc.org">epunch@cascadeoc.org</a>.
 
-<div class="notification is-info is-light">
+<!-- <div class="notification is-info is-light">
 During the event, you can <a href="https://losttimeorienteering.nfshost.com/"><strong>view live results here</strong></a>.
-</div>
+</div> -->
 
-<!-- 
+
 <div class="block">
 <details open class="message is-primary">
 <summary>
@@ -28,7 +28,9 @@ During the event, you can <a href="https://losttimeorienteering.nfshost.com/"><s
     <p style="margin-bottom:0em;">Thank you to all of our volunteers!</p>
   </div>
 </summary>
-  <div class="message-body">
+
+<!--
+<div class="message-body">
   <strong>Event Directors</strong> Michelle Kastner, Ing Uhlin, Chris Cooper
   <strong>Course Designer</strong> Chris Cooper
   <strong>Registrar</strong> Kathy Forgrave
@@ -48,10 +50,11 @@ During the event, you can <a href="https://losttimeorienteering.nfshost.com/"><s
   <strong>Refreshments</strong> Robin Nordberg
   <strong>Event Teardown</strong> Bruce Christopherson, Brett Aniballi, Stuart Bradshaw
   </div>
+-->
 </details>
 </div>
 
--->
+
 
 ## Results Analysis Tools
 
@@ -59,10 +62,12 @@ During the event, you can <a href="https://losttimeorienteering.nfshost.com/"><s
 <div class="card">
   <footer class="card-footer">
     <a href="https://www.livelox.com/Events/Show/123730" class="card-footer-item" target="_blank">Livelox&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a>
-    <span class="card-footer-item">Winsplits</span>
-    <!-- <a href="" class="card-footer-item" target="_blank">Winsplits&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a> -->
-    <span class="card-footer-item">Attackpoint</span>
-    <!-- <a href="" class="card-footer-item" target="_blank">Attackpoint&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a> -->
+    <!-- <span class="card-footer-item">Winsplits</span> -->
+    <a href="http://obasen.orientering.se/winsplits/online/en/default.asp?page=classes&databaseId=95959" class="card-footer-item" target="_blank">Winsplits&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a>
+    <!-- <span class="card-footer-item">Attackpoint</span> -->
+    <a href="https://www.attackpoint.org/eventdetail.jsp/event_56734" class="card-footer-item" target="_blank">Attackpoint&nbsp;<i class="fa-solid fa-up-right-from-square"></i></a>
   </footer>
 </div>
 </div> 
+
+<p>Splits are on external sites now, results will be posted here in a few minutes.</p>
