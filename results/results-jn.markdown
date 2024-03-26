@@ -16,4 +16,4 @@ Day One: Classic at Quincy Lakes [Results](/results/results-saturday)
 
 Day Two: Classic at Bishop's Land [Results](/results/results-sunday)
 
-*Coming soon!*
+*Thanks to all those who attended and followed along this weekend! Combined results for OUSA Junior National Championship titles, including JROTC Categories, as announced at the awards ceremony will be posted in the next few days. We apologize for the delay.*
