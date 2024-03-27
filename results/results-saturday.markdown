@@ -12,7 +12,7 @@ breadcrumbs:
 
 ##### Event Date: March 23, 2024
 
-##### Last Results Update: March 23, 7pm Results Status: Preliminary
+##### Last Results Update: March 27, 9:30am Results Status: Final
 
 For questions or changes, contact <a href="mailto:epunch@cascadeoc.org">epunch@cascadeoc.org</a>.
 
@@ -1884,18 +1884,18 @@ A number of coats and other items were left at coat drop! Please claim your gear
                     <td class="text-right">245.78</td>
                 </tr>
                 <tr>
-                    <td></td>
+                    <td>45</td>
                     <td>Fischer Skroch</td>
                     <td>COC</td>
                     <td class="text-right">OVT 180:29</td>
-                    <td class="text-right"></td>
+                    <td class="text-right">245.78</td>
                 </tr>
                 <tr>
-                    <td></td>
+                    <td>46</td>
                     <td>Sean Rascon</td>
                     <td>COC</td>
                     <td class="text-right">OVT 201:21</td>
-                    <td class="text-right"></td>
+                    <td class="text-right">245.78</td>
                 </tr>
             </tbody>
         </table>
@@ -2145,7 +2145,7 @@ A number of coats and other items were left at coat drop! Please claim your gear
                 </tr>
                 <tr class="team-result-member">
                     <td></td>
-                    <td><s></s></td>
+                    <td><s>245.78</s></td>
                     <td>Fischer Skroch (COC)</td>
                     <td>OVT 180:29</td>
                 </tr>
@@ -2397,7 +2397,7 @@ A number of coats and other items were left at coat drop! Please claim your gear
                 </tr>
                 <tr class="team-result-member">
                     <td></td>
-                    <td><s></s></td>
+                    <td><s>245.78</s></td>
                     <td>Sean Rascon (COC)</td>
                     <td>OVT 201:21</td>
                 </tr>
@@ -2524,7 +2524,7 @@ A number of coats and other items were left at coat drop! Please claim your gear
                     <td>Lauren Gao</td>
                     <td>LAOC</td>
                     <td class="text-right">OVT 181:37</td>
-                    <td class="text-right"></td>
+                    <td class="text-right">216.39</td>
                 </tr>
             </tbody>
         </table>
@@ -2829,7 +2829,7 @@ A number of coats and other items were left at coat drop! Please claim your gear
                 </tr>
                 <tr class="team-result-member">
                     <td></td>
-                    <td><s></s></td>
+                    <td><s>216.39</s></td>
                     <td>Lauren Gao (LAOC)</td>
                     <td>OVT 181:37</td>
                 </tr>
