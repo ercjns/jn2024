@@ -10,6 +10,8 @@ breadcrumbs:
 
 # Results - 2024 OUSA Junior National Championships
 
+##### Posted: March 27, 5:15pm
+
 Combined results from two day competition for Interscholastic and Intercollegiate individuals and teams. Points from each day are summed, lowest score wins.
 
 *Two-day results for adults will be posted on a separate page in the next few days. Thanks for your patience.*

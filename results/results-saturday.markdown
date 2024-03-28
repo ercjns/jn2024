@@ -12,7 +12,7 @@ breadcrumbs:
 
 ##### Event Date: March 23, 2024
 
-##### Last Results Update: March 27, 9:30am Results Status: Final
+##### Last Results Update: March 27, 5:15pm Results Status: Final
 
 For questions or changes, contact <a href="mailto:epunch@cascadeoc.org">epunch@cascadeoc.org</a>.
 
